@@ -29,9 +29,12 @@
   <link href="/src/extra/css/colors/color1.css" id="colors" rel="stylesheet" type="text/css" />
   <!-- Animation Style -->
   <link href="/src/extra/css/animate.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" type="text/css" href="/src/extra/primary-school.css">
-  <link rel="stylesheet" type="text/css" href="/src/extra/select2.min.css">
-  <link rel="stylesheet" type="text/css" href="/src/extra/custom.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/css/primary-school.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/css/select2.min.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/css/custom.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/primary-school.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/select2.min.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/custom.css">
   <!-- <link rel="stylesheet" type="text/css" href="/stylesheets/funky.css"> -->
   <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">

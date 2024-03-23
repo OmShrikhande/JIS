@@ -4,20 +4,20 @@
 <head>
   <meta charset="utf-8">
   <title>Transfer Certificate | TC | The Jain International School</title>
-  <link rel="icon" type="image/png" href="/media/academics/tc/favicon.png">
+  <link rel="icon" type="image/png" href="/images/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="author" content="Flying Penguins">
   <meta name="description"
     content="The certificate is used when you change your board or university. Find Your Transfer Certificates JIS.">
-    <link href="/src/extra/css/bootstrap.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/style.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/responsive.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/colors/color1.css" id="colors" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/animate.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/select2.min.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/custom.css" rel="stylesheet" type="text/css" />
-  <link href="/src/extra/css/funky.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/style.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/responsive.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/colors/color1.css" id="colors">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/animate.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/select2.min.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/custom.css">
+  <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css">
   <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -264,16 +264,21 @@ img{
 
 <body>
   <!--===================Header===========-->
-  <? include'./Header/header.php' ?>
+  <? include'./header.php' ?>
   <!--===================End Header===========-->
   <!-- <div id="banner-area" class="banner-area" style="background-image: url(https://dummyimage.com/1920x500/cfcfcf/000000)" data-hover-only="true">
     </div> -->
+    
+  
   <section class="pad-50 nav-tabs-table sec_tab_start">
+       <h2 style="text-align:center">X<sup>th</sup> Transfer Certificate</h2>
     <div class="container">
       <div class="row">
         <div class="container">
           <div class="col-md-12">
             <ul class="nav nav-tabs">
+                 
+                <!--
               <li class="active"><a data-toggle="tab" href="#home">Nursery</a></li>
               <li><a data-toggle="tab" href="#menu1">U. Kg</a></li>
               <li><a data-toggle="tab" href="#menu2">1st Std</a></li>
@@ -285,12 +290,12 @@ img{
               <li><a data-toggle="tab" href="#menu8">7th Std</a></li>
               <li><a data-toggle="tab" href="#menu9">8th Std</a></li>
               <li><a data-toggle="tab" href="#menu10">9th Std</a></li>
-              <li><a data-toggle="tab" href="#menu11">10th Std</a></li>
-              <li><a data-toggle="tab" href="#menu12">11th Std</a></li>
-              <li><a data-toggle="tab" href="#menu13">12th Std</a></li>
+              <li style="text-align: center;"><a data-toggle="tab" href="#menu11">10th Std</a></li>
+<!--<li><a data-toggle="tab" href="#menu12">11th Std</a></li>
+              <li><a data-toggle="tab" href="#menu13">12th Std</a></li>-->
             </ul>
             <div class="tab-content">
-              <!-- nursery starts -->
+              <!-- nursery starts 
               <div id="home" class="tab-pane fade in active">
                 <div class="container">
                   <div class="row">
@@ -307,8 +312,8 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Zenisha Rajani</td>
-                            <td class="pad-left-6"><a href="/images/tc/zenisha-rajani.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/zenisha-rajani.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -318,7 +323,7 @@ img{
                 </div>
               </div>
               <!-- nursery ends -->
-              <!-- u.kg starts -->
+              <!-- u.kg starts 
               <div id="menu1" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -335,8 +340,8 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Arnav Shrote</td>
-                            <td class="pad-left-6"><a href="/images/tc/arnav- shrote.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/arnav- shrote.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -346,7 +351,7 @@ img{
                 </div>
               </div>
               <!-- u.kg ends -->
-              <!-- 1st starts -->
+              <!-- 1st starts 
               <div id="menu2" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -363,13 +368,13 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Rima Chauhan</td>
-                            <td class="pad-left-6"><a href="/images/tc/RIMA-CHAUHAN.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RIMA-CHAUHAN.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Neerav Bansal</td>
-                            <td class="pad-left-6"><a href="/images/tc/NEERAV-BANSAL.jpg" target="_blank"><img
-                                   style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NEERAV-BANSAL.jpg" target="_blank"><img
+                                   style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -379,7 +384,7 @@ img{
                 </div>
               </div>
               <!-- 1st ends -->
-              <!-- 2nd starts -->
+              <!-- 2nd starts 
               <div id="menu3" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -396,30 +401,30 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Alankriti Garg</td>
-                            <td class="pad-left-6"><a href="/images/tc/ALANKRITI-GARG.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ALANKRITI-GARG.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Tashvi Dahake </td>
-                            <td class="pad-left-6"><a href="/images/tc/TASHVI-DAHAKE.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TASHVI-DAHAKE.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Mrudul Chaudhari</td>
-                            <td class="pad-left-6"><a href="/images/tc/MRUDUL-CHAUDHARI.jpg  " target="_blank"><img
-                                   style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MRUDUL-CHAUDHARI.jpg  " target="_blank"><img
+                                   style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6">Aryan Kamdi</td>
-                            <td class="pad-left-6"><a href="/images/tc/ARYAN- KAMDI.jpg" target="_blank"><img  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARYAN- KAMDI.jpg" target="_blank"><img  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">5</td>
                             <td class="pad-left-6">Avih Zapate</td>
-                            <td class="pad-left-6"><a href="/images/tc/AVIH-ZAPATE.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AVIH-ZAPATE.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                         </tbody>
                       </table>
@@ -428,7 +433,7 @@ img{
                 </div>
               </div>
               <!-- 2nd ends -->
-              <!-- 3rd starts -->
+              <!-- 3rd starts 
               <div id="menu4" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -445,14 +450,14 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Tanish Bhawsar </td>
-                            <td class="pad-left-6"><a href="/images/tc/TANISH-BHAWSAR.jpg" target="_blank"><img
-                                   style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TANISH-BHAWSAR.jpg" target="_blank"><img
+                                   style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Ishwari Borkar </td>
-                            <td class="pad-left-6"><a href="/images/tc/ISHWARI-BORKAR.jpg " target="_blank"><img
-                                   style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ISHWARI-BORKAR.jpg " target="_blank"><img
+                                   style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -462,7 +467,7 @@ img{
                 </div>
               </div>
               <!-- 3rd ends -->
-              <!-- 4th starts -->
+              <!-- 4th starts 
               <div id="menu5" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -479,37 +484,37 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Advika Mankar </td>
-                            <td class="pad-left-6"><a href="/images/tc/ADVIKA-MANKAR.jpg " target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADVIKA-MANKAR.jpg " target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Tejesvi Mannan</td>
-                            <td class="pad-left-6"><a href="/images/tc/TEJESVI-MANNAN.jpg" target="_blank"><img
-                                   style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TEJESVI-MANNAN.jpg" target="_blank"><img
+                                   style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Rucha Chandorkar</td>
-                            <td class="pad-left-6"><a href="/images/tc/RUCHA-CHANDORKAR.jpg" target="_blank"><img
-                                   style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RUCHA-CHANDORKAR.jpg" target="_blank"><img
+                                   style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6">Mehul Chaudhari</td>
-                            <td class="pad-left-6"><a href="/images/tc/MEHUL-CHAUDHARI.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MEHUL-CHAUDHARI.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">5</td>
                             <td class="pad-left-6">Vivek Bokde </td>
-                            <td class="pad-left-6"><a href="/images/tc/VIVEK-BOKDE.jpg" target="_blank"><img
-                             style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VIVEK-BOKDE.jpg" target="_blank"><img
+                             style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">6</td>
                             <td class="pad-left-6">Arush Magar</td>
-                            <td class="pad-left-6"><a href="/images/tc/ARUSH-MAGAR.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARUSH-MAGAR.jpg" target="_blank"><img  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                         </tbody>
                       </table>
@@ -518,7 +523,7 @@ img{
                 </div>
               </div>
               <!-- 4th ends -->
-              <!-- 5th starts -->
+              <!-- 5th starts
               <div id="menu6" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -535,8 +540,8 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Priyansh Shrikhande</td>
-                            <td class="pad-left-6"><a href="/images/tc/PRIYANSH-SHRIKHANDE.jpg " target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/PRIYANSH-SHRIKHANDE.jpg " target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -546,7 +551,7 @@ img{
                 </div>
               </div>
               <!-- 5th ends -->
-              <!-- 6th starts -->
+              <!-- 6th starts
               <div id="menu7" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -563,31 +568,31 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Tanmay Sondhiya</td>
-                            <td class="pad-left-6"><a href="/images/tc/TANMAY-SONDHIYA.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TANMAY-SONDHIYA.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Rishi Patel </td>
-                            <td class="pad-left-6"><a href="/images/tc/RISHI-PATEL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RISHI-PATEL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Gaurav Deshmukh </td>
-                            <td class="pad-left-6"><a href="/images/tc/GAURAV-DESHKMUKH.jpg" target="_blank"><img
-                                style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/GAURAV-DESHKMUKH.jpg" target="_blank"><img
+                                style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6">Nithyashree Basavaraj </td>
-                            <td class="pad-left-6"><a href="/images/tc/NITHYASHREE-BASAVARAJ.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NITHYASHREE-BASAVARAJ.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">5</td>
                             <td class="pad-left-6">Sharanaya Singh </td>
-                            <td class="pad-left-6"><a href="/images/tc/SHARANAYA-SINGH.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHARANAYA-SINGH.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                         </tbody>
                       </table>
@@ -596,7 +601,7 @@ img{
                 </div>
               </div>
               <!-- 6th ends -->
-              <!-- 7th starts -->
+              <!-- 7th starts
               <div id="menu8" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -613,23 +618,23 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Anavi Jain </td>
-                            <td class="pad-left-6"><a href="/images/tc/ANAVI-JAIN.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ANAVI-JAIN.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Arav Bansal </td>
-                            <td class="pad-left-6"><a href="/images/tc/ARAV-BANSAL.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARAV-BANSAL.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Vaishnavi Hatwar </td>
-                            <td class="pad-left-6"><a href="/images/tc/VAISHNAVI-HATWAR.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VAISHNAVI-HATWAR.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6"> Vian Zapate </td>
-                            <td class="pad-left-6"><a href="/images/tc/VIAN-ZAPATE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VIAN-ZAPATE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -639,7 +644,7 @@ img{
                 </div>
               </div>
               <!-- 7th ends -->
-              <!-- 8th starts -->
+              <!-- 8th starts 
               <div id="menu9" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -656,8 +661,8 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Vedant Jejani </td>
-                            <td class="pad-left-6"><a href="/images/tc/VEDANT-JEJANI.jpg" target="_blank"><img
-                                style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VEDANT-JEJANI.jpg" target="_blank"><img
+                                style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -667,7 +672,7 @@ img{
                 </div>
               </div>
               <!-- 8th ends -->
-              <!-- 9th starts -->
+              <!-- 9th starts 
               <div id="menu10" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -684,8 +689,8 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Burhanuddin</td>
-                            <td class="pad-left-6"><a href="/images/tc/BURHANUDDIN.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/BURHANUDDIN.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -696,7 +701,7 @@ img{
               </div>
               <!-- 9th ends -->
               <!-- 10th starts -->
-              <div id="menu11" class="tab-pane fade">
+      
                 <div class="container">
                   <div class="row">
                     <div class="col-md-11" style="padding: 0px">
@@ -712,283 +717,283 @@ img{
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Aashta Patil</td>
-                            <td class="pad-left-6"><a href="/images/tc/AASHTA-PATIL.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AASHTA-PATIL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Akshat Ravi</td>
-                            <td class="pad-left-6"><a href="/images/tc/AKSHAT-RAVI.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AKSHAT-RAVI.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Arihant Jain </td>
-                            <td class="pad-left-6"><a href="/images/tc/ARIHANT-JAIN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARIHANT-JAIN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6"> Arjun Shrivastava</td>
-                            <td class="pad-left-6"><a href="/images/tc/ARJUN-SHRIVASTAVA.jpg" target="_blank"><img
-style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARJUN-SHRIVASTAVA.jpg" target="_blank"><img
+style="width:30px; height:56px;"style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">5</td>
                             <td class="pad-left-6">Arnav Baronia</td>
-                            <td class="pad-left-6"><a href="/images/tc/ARNAV-BARONIA.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARNAV-BARONIA.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">6</td>
                             <td class="pad-left-6">Aryan Sharma</td>
-                            <td class="pad-left-6"><a href="/images/tc/ARYAN-SHARMA.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ARYAN-SHARMA.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">7</td>
                             <td class="pad-left-6">Ayush Sachan</td>
-                            <td class="pad-left-6"><a href="/images/tc/AYUSH-SACHAN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AYUSH-SACHAN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">8</td>
                             <td class="pad-left-6"> Vansha Gupta</td>
-                            <td class="pad-left-6"><a href="/images/tc/VANSHA-GUPTA.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VANSHA-GUPTA.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">9</td>
                             <td class="pad-left-6">Chanakshi Pawar</td>
-                            <td class="pad-left-6"><a href="/images/tc/CHANAKSHI-PAWAR.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/CHANAKSHI-PAWAR.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">10</td>
                             <td class="pad-left-6"> Chetan Tichkule</td>
-                            <td class="pad-left-6"><a href="/images/tc/CHETAN-TICHKULE.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/CHETAN-TICHKULE.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">11</td>
                             <td class="pad-left-6">Chetna Sharma </td>
-                            <td class="pad-left-6"><a href="/images/tc/CHETNA-SHARMA.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/CHETNA-SHARMA.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">12</td>
                             <td class="pad-left-6">Govind Pandey</td>
-                            <td class="pad-left-6"><a href="/images/tc/GOVIND-PANDEY.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/GOVIND-PANDEY.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">13</td>
                             <td class="pad-left-6">Harshad Hedaoo</td>
-                            <td class="pad-left-6"><a href="/images/tc/HARSHAD-HEDAOO.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/HARSHAD-HEDAOO.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">14</td>
                             <td class="pad-left-6">Hrudayash Acharekar</td>
-                            <td class="pad-left-6"><a href="/images/tc/HRUDAYASH-ACHAREKAR.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/HRUDAYASH-ACHAREKAR.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">15</td>
                             <td class="pad-left-6">Jaie Mude</td>
-                            <td class="pad-left-6"><a href="/images/tc/JAIE-MUDE.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JAIE-MUDE.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">16</td>
                             <td class="pad-left-6">Jayant Singh</td>
-                            <td class="pad-left-6"><a href="/images/tc/JAYANT-SINGH.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JAYANT-SINGH.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">17</td>
                             <td class="pad-left-6">Jitesh Kakwani </td>
-                            <td class="pad-left-6"><a href="/images/tc/JITESH-KAKWANI.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JITESH-KAKWANI.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">18</td>
                             <td class="pad-left-6">Krishna Ghodmare </td>
-                            <td class="pad-left-6"><a href="/images/tc/KRISHNA-GHODMARE.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/KRISHNA-GHODMARE.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">19</td>
                             <td class="pad-left-6">M P Mitali</td>
-                            <td class="pad-left-6"><a href="/images/tc/M-P-MITALI.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/M-P-MITALI.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">20</td>
                             <td class="pad-left-6">Manas Fuke</td>
-                            <td class="pad-left-6"><a href="/images/tc/MANAS-FUKE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MANAS-FUKE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">21</td>
                             <td class="pad-left-6">Manvi Rana</td>
-                            <td class="pad-left-6"><a href="/images/tc/MANVI-RANA.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MANVI-RANA.jpg" target="_blank"><imgstyle="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">22</td>
                             <td class="pad-left-6">Mithilesh Atram</td>
-                            <td class="pad-left-6"><a href="/images/tc/MITHILESH-ATRAM.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MITHILESH-ATRAM.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">23</td>
                             <td class="pad-left-6">Tushar Agarwal</td>
-                            <td class="pad-left-6"><a href="/images/tc/TUSHAR-AGARWAL.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TUSHAR-AGARWAL.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">24</td>
                             <td class="pad-left-6">Mrunal Chopade</td>
-                            <td class="pad-left-6"><a href="/images/tc/MRUNAL-CHOPADE.jpg" target="_blank"><img
-                                style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MRUNAL-CHOPADE.jpg" target="_blank"><img
+                                style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">25</td>
                             <td class="pad-left-6">Mrunal Thakur </td>
-                            <td class="pad-left-6"><a href="/images/tc/MRUNAL-THAKUR.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MRUNAL-THAKUR.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">26</td>
                             <td class="pad-left-6">Nikhil Itankar</td>
-                            <td class="pad-left-6"><a href="/images/tc/NIKHIL-ITANKAR.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NIKHIL-ITANKAR.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">27</td>
                             <td class="pad-left-6">Nishant Batra</td>
-                            <td class="pad-left-6"><a href="/images/tc/NISHANT-BATRA.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NISHANT-BATRA.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">28</td>
                             <td class="pad-left-6">Piyush Patil</td>
-                            <td class="pad-left-6"><a href="/images/tc/PIYUSH-PATIL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/PIYUSH-PATIL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">29</td>
                             <td class="pad-left-6">Pratyush Gawali</td>
-                            <td class="pad-left-6"><a href="/images/tc/PRATYUSH-GAWALI.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/PRATYUSH-GAWALI.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">30</td>
                             <td class="pad-left-6">Rounak Deshpande</td>
-                            <td class="pad-left-6"><a href="/images/tc/ROUNAK-DESHPANDE.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ROUNAK-DESHPANDE.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">31</td>
                             <td class="pad-left-6">Sahil Karamchandani</td>
-                            <td class="pad-left-6"><a href="/images/tc/SAHIL-KARAMCHANDANI.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAHIL-KARAMCHANDANI.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">32</td>
                             <td class="pad-left-6">Saiee Taywade</td>
-                            <td class="pad-left-6"><a href="/images/tc/SAIEE-TAYWADE.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAIEE-TAYWADE.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">33</td>
                             <td class="pad-left-6">Saloni Ingle</td>
-                            <td class="pad-left-6"><a href="/images/tc/SALONI-INGLE.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SALONI-INGLE.jpg" target="_blank"><imgstyle="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">34</td>
                             <td class="pad-left-6">Saloni Patel</td>
-                            <td class="pad-left-6"><a href="/images/tc/SALONI-PATEL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SALONI-PATEL.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">35</td>
                             <td class="pad-left-6">Samarth Morey</td>
-                            <td class="pad-left-6"><a href="/images/tc/SAMARTH-MOREY.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAMARTH-MOREY.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">36</td>
                             <td class="pad-left-6">Sanchi Dongre</td>
-                            <td class="pad-left-6"><a href="/images/tc/SANCHI-DONGRE.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SANCHI-DONGRE.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">37</td>
                             <td class="pad-left-6"> Sanskar Dewani </td>
-                            <td class="pad-left-6"><a href="/images/tc/SANSKAR-DEWANI.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SANSKAR-DEWANI.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">38</td>
                             <td class="pad-left-6">Sanya Thakral</td>
-                            <td class="pad-left-6"><a href="/images/tc/SANYA-THAKRAL.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SANYA-THAKRAL.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">39</td>
                             <td class="pad-left-6">Sara Pandey</td>
-                            <td class="pad-left-6"><a href="/images/tc/SARA-PANDEY.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SARA-PANDEY.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">40</td>
                             <td class="pad-left-6">Sayunkta Joharapurkar </td>
-                            <td class="pad-left-6"><a href="/images/tc/SAYUNKTA-JOHARAPURKAR.jpg" target="_blank"><img
-                                  style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAYUNKTA-JOHARAPURKAR.jpg" target="_blank"><img
+                                  style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">41</td>
                             <td class="pad-left-6">Shashish Soni </td>
-                            <td class="pad-left-6"><a href="/images/tc/SHASHISH-SONI.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHASHISH-SONI.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">42</td>
                             <td class="pad-left-6">Shayoni Das</td>
-                            <td class="pad-left-6"><a href="/images/tc/SHAYONI-DAS.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHAYONI-DAS.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">43</td>
                             <td class="pad-left-6">Shrayant Chaudhary</td>
-                            <td class="pad-left-6"><a href="/images/tc/SHRAYANT-CHAUDHARY.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;"src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHRAYANT-CHAUDHARY.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;"src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">44</td>
                             <td class="pad-left-6">Shreya Agarwal </td>
-                            <td class="pad-left-6"><a href="/images/tc/SHREYA-AGARWAL.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHREYA-AGARWAL.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">45</td>
                             <td class="pad-left-6">Shreyansh Pandey</td>
-                            <td class="pad-left-6"><a href="/images/tc/SHREYANSH-PANDEY.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SHREYANSH-PANDEY.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">46</td>
                             <td class="pad-left-6">Simran Madan </td>
-                            <td class="pad-left-6"><a href="/images/tc/SIMRAN-MADAN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SIMRAN-MADAN.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">47</td>
                             <td class="pad-left-6">Siya Chandak</td>
-                            <td class="pad-left-6"><a href="/images/tc/SIYA-CHANDAK.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SIYA-CHANDAK.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">48</td>
                             <td class="pad-left-6">Smit Bhandarkar </td>
-                            <td class="pad-left-6"><a href="/images/tc/SMIT-BHANDARKAR.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SMIT-BHANDARKAR.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">49</td>
                             <td class="pad-left-6">Sudhanshu Kale </td>
-                            <td class="pad-left-6"><a href="/images/tc/SUDHANSHU-KALE.jpg" target="_blank"><img
-                                 style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SUDHANSHU-KALE.jpg" target="_blank"><img
+                                 style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">50</td>
                             <td class="pad-left-6">Suhani Ingle</td>
-                            <td class="pad-left-6"><a href="/images/tc/SUHANI-INGLE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SUHANI-INGLE.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                         </tbody>
                       </table>
@@ -997,7 +1002,7 @@ style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acr
                 </div>
               </div>
               <!-- 10th ends -->
-              <!-- 11th starts -->
+              <!-- 11th starts 
               <div id="menu12" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -1014,7 +1019,7 @@ style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acr
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Manav Arora </td>
-                            <td class="pad-left-6"><a href="/images/tc/MANAV-ARORA.jpg" target="_blank"><img style="width:30px; height:56px;" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MANAV-ARORA.jpg" target="_blank"><img style="width:30px; height:56px;" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
 
                         </tbody>
@@ -1024,7 +1029,7 @@ style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acr
                 </div>
               </div>
               <!-- 11th ends -->
-              <!-- 12th starts -->
+              <!-- 12th starts 
               <div id="menu13" class="tab-pane fade">
                 <div class="container">
                   <div class="row">
@@ -1041,314 +1046,314 @@ style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acr
                           <tr>
                             <td class="text-center">1</td>
                             <td class="pad-left-6">Adish Jain </td>
-                            <td class="pad-left-6"><a href="/images/tc/ADISH-JAIN.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADISH-JAIN.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">2</td>
                             <td class="pad-left-6">Aditi Beniwal </td>
-                            <td class="pad-left-6"><a href="/images/tc/ADITI-BENIWAL.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADITI-BENIWAL.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">3</td>
                             <td class="pad-left-6">Aditya Malewar</td>
-                            <td class="pad-left-6"><a href="/images/tc/ADITYA-MALEWAR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADITYA-MALEWAR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">4</td>
                             <td class="pad-left-6">Aditya Lohiya</td>
-                            <td class="pad-left-6"><a href="/images/tc/ADITYA-LOHIYA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADITYA-LOHIYA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">5</td>
                             <td class="pad-left-6">Aly Sheikh </td>
-                            <td class="pad-left-6"><a href="/images/tc/ALY-SHEIKH.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ALY-SHEIKH.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">6</td>
                             <td class="pad-left-6">Amol Nanwani </td>
-                            <td class="pad-left-6"><a href="/images/tc/AMOL-NANWANI.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AMOL-NANWANI.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">7</td>
                             <td class="pad-left-6">Aniket Budhraja </td>
-                            <td class="pad-left-6"><a href="/images/tc/ANIKET-BUDHRAJA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ANIKET-BUDHRAJA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">8</td>
                             <td class="pad-left-6">Ankit Dhandhania </td>
-                            <td class="pad-left-6"><a href="/images/tc/ANKIT-DHANDHANIA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ANKIT-DHANDHANIA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">9</td>
                             <td class="pad-left-6">Anushka Minocha </td>
-                            <td class="pad-left-6"><a href="/images/tc/ANUSHKA-MINOCHA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ANUSHKA-MINOCHA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">10</td>
                             <td class="pad-left-6">Ayush Rai </td>
-                            <td class="pad-left-6"><a href="/images/tc/AYUSH-RAI.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AYUSH-RAI.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">11</td>
                             <td class="pad-left-6">Chirag Sadawar</td>
-                            <td class="pad-left-6"><a href="/images/tc/CHIRAG-SADAWAR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/CHIRAG-SADAWAR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">12</td>
                             <td class="pad-left-6">Deep Chawla</td>
-                            <td class="pad-left-6"><a href="/images/tc/DEEP-CHAWLA.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/DEEP-CHAWLA.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">13</td>
                             <td class="pad-left-6">Chanakya Bhaskarwar </td>
-                            <td class="pad-left-6"><a href="/images/tc/CHANAKYA-BHASKARWAR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/CHANAKYA-BHASKARWAR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">14</td>
                             <td class="pad-left-6">Garima Sandhu </td>
-                            <td class="pad-left-6"><a href="/images/tc/GARIMA-SANDHU.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/GARIMA-SANDHU.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">15</td>
                             <td class="pad-left-6">Gourang Modi </td>
-                            <td class="pad-left-6"><a href="/images/tc/GOURANG-MODI.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/GOURANG-MODI.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">16</td>
                             <td class="pad-left-6">Harsh Goyal </td>
-                            <td class="pad-left-6"><a href="/images/tc/HARSH-GOYAL.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/HARSH-GOYAL.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">17</td>
                             <td class="pad-left-6">Himali Mulchandani </td>
-                            <td class="pad-left-6"><a href="/images/tc/HIMALI-MULCHANDANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/HIMALI-MULCHANDANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">18</td>
                             <td class="pad-left-6">Jay Gawande</td>
-                            <td class="pad-left-6"><a href="/images/tc/JAY-GAWANDE.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JAY-GAWANDE.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">19</td>
                             <td class="pad-left-6">Kartik Jaiswal</td>
-                            <td class="pad-left-6"><a href="/images/tc/KARTIK-JAISWAL.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/KARTIK-JAISWAL.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">20</td>
                             <td class="pad-left-6">Khushi Agrawal </td>
-                            <td class="pad-left-6"><a href="/images/tc/KHUSHI-AGRAWAL.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/KHUSHI-AGRAWAL.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">21</td>
                             <td class="pad-left-6">Laveena Ambwani</td>
-                            <td class="pad-left-6"><a href="/images/tc/LAVEENA-AMBWANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/LAVEENA-AMBWANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">22</td>
                             <td class="pad-left-6">Mihir Saluja </td>
-                            <td class="pad-left-6"><a href="/images/tc/MIHIR-SALUJA.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MIHIR-SALUJA.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">23</td>
                             <td class="pad-left-6"> Mudita Tekriwal </td>
-                            <td class="pad-left-6"><a href="/images/tc/MUDITA-TEKRIWAL.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MUDITA-TEKRIWAL.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">24</td>
                             <td class="pad-left-6">Neeti Tatiya </td>
-                            <td class="pad-left-6"><a href="/images/tc/NEETI-TATIYA.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NEETI-TATIYA.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">25</td>
                             <td class="pad-left-6">Nigar Khan</td>
-                            <td class="pad-left-6"><a href="/images/tc/NIGAR-KHAN.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NIGAR-KHAN.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">26</td>
                             <td class="pad-left-6">Nikunj Bagdi </td>
-                            <td class="pad-left-6"><a href="/images/tc/NIKUNJ-BAGDI.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/NIKUNJ-BAGDI.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">27</td>
                             <td class="pad-left-6">Om Pimpalshende</td>
-                            <td class="pad-left-6"><a href="/images/tc/OM-PIMPALSHENDE.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/OM-PIMPALSHENDE.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">28</td>
                             <td class="pad-left-6">Rahul Nawalramani</td>
-                            <td class="pad-left-6"><a href="/images/tc/RAHUL-NAWALRAMANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RAHUL-NAWALRAMANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">29</td>
                             <td class="pad-left-6">Rakshita Sainani </td>
-                            <td class="pad-left-6"><a href="/images/tc/RAKSHITA-SAINANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RAKSHITA-SAINANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">30</td>
                             <td class="pad-left-6">Raunak Vijan</td>
-                            <td class="pad-left-6"><a href="/images/tc/RAUNAK-VIJAN.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RAUNAK-VIJAN.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">31</td>
                             <td class="pad-left-6">Rishabh Gupta</td>
-                            <td class="pad-left-6"><a href="/images/tc/RISHABH-GUPTA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/RISHABH-GUPTA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">32</td>
                             <td class="pad-left-6">Roopal Wath </td>
-                            <td class="pad-left-6"><a href="/images/tc/ROOPAL-WATH.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ROOPAL-WATH.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">33</td>
                             <td class="pad-left-6">Sahil Diwan </td>
-                            <td class="pad-left-6"><a href="/images/tc/SAHIL-DIWAN.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAHIL-DIWAN.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">34</td>
                             <td class="pad-left-6"> Sahil Nawalramani </td>
-                            <td class="pad-left-6"><a href="/images/tc/SAHIL-NAWALRAMANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAHIL-NAWALRAMANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">35</td>
                             <td class="pad-left-6">Saket Gambhir </td>
-                            <td class="pad-left-6"><a href="/images/tc/SAKET-GAMBHIR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SAKET-GAMBHIR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">36</td>
                             <td class="pad-left-6">Smera Mehta</td>
-                            <td class="pad-left-6"><a href="/images/tc/SMERA-MEHTA.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SMERA-MEHTA.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">37</td>
                             <td class="pad-left-6">Surya-Tej-Kasawar </td>
-                            <td class="pad-left-6"><a href="/images/tc/SURYA-TEJ-KASAWAR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/SURYA-TEJ-KASAWAR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">38</td>
                             <td class="pad-left-6"> Tanushri Kimmatkar </td>
-                            <td class="pad-left-6"><a href="/images/tc/TANUSHRI-KIMMATKAR.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/TANUSHRI-KIMMATKAR.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">39</td>
                             <td class="pad-left-6">Vaibhav Mundra</td>
-                            <td class="pad-left-6"><a href="/images/tc/VAIBHAV-MUNDRA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VAIBHAV-MUNDRA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">40</td>
                             <td class="pad-left-6">Vikas Panpalia</td>
-                            <td class="pad-left-6"><a href="/images/tc/VIKAS-PANPALIA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/VIKAS-PANPALIA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">41</td>
                             <td class="pad-left-6">Yashashree Dhabale </td>
-                            <td class="pad-left-6"><a href="/images/tc/YASHASHREE-DHABALE.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/YASHASHREE-DHABALE.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">42</td>
                             <td class="pad-left-6">Aaradhya Sharma</td>
-                            <td class="pad-left-6"><a href="/images/tc/AARADHYA-SHARMA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AARADHYA-SHARMA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">43</td>
                             <td class="pad-left-6">Aayan Alam </td>
-                            <td class="pad-left-6"><a href="/images/tc/AAYAN-ALAM.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AAYAN-ALAM.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">44</td>
                             <td class="pad-left-6">Adwait Deshpande</td>
-                            <td class="pad-left-6"><a href="/images/tc/ADWAIT-DESHPANDE.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ADWAIT-DESHPANDE.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">45</td>
                             <td class="pad-left-6">Akhil Gupta </td>
-                            <td class="pad-left-6"><a href="/images/tc/AKHIL-GUPTA.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/AKHIL-GUPTA.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">46</td>
                             <td class="pad-left-6"> Alimurtaza Merchant</td>
-                            <td class="pad-left-6"><a href="/images/tc/ALIMURTAZA-MERCHANT.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ALIMURTAZA-MERCHANT.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">47</td>
                             <td class="pad-left-6"> Jaskaran Chhabra</td>
-                            <td class="pad-left-6"><a href="/images/tc/JASKARAN-CHHABRA.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JASKARAN-CHHABRA.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">48</td>
                             <td class="pad-left-6">Anshuneel Dumbhare</td>
-                            <td class="pad-left-6"><a href="/images/tc/ANSHUNEEL-DUMBHARE.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/ANSHUNEEL-DUMBHARE.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">49</td>
                             <td class="pad-left-6">Harsh Sonkusare </td>
-                            <td class="pad-left-6"><a href="/images/tc/HARSH-SONKUSARE.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/HARSH-SONKUSARE.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">50</td>
                             <td class="pad-left-6">Jatin Chhangani</td>
-                            <td class="pad-left-6"><a href="/images/tc/JATIN-CHHANGANI.jpg" target="_blank"><img
-                                  width="30" height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/JATIN-CHHANGANI.jpg" target="_blank"><img
+                                  width="30" height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">51</td>
                             <td class="pad-left-6">Manan Khare</td>
-                            <td class="pad-left-6"><a href="/images/tc/MANAN-KHARE.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MANAN-KHARE.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                           <tr>
                             <td class="text-center">52</td>
                             <td class="pad-left-6">Mohit Duggad</td>
-                            <td class="pad-left-6"><a href="/images/tc/MOHIT-DUGGAD.jpg" target="_blank"><img width="30"
-                                  height="56" src="/images/acrobat.png"></a></td>
+                            <td class="pad-left-6"><a href="/media/academics/tc/tc/MOHIT-DUGGAD.jpg" target="_blank"><img width="30"
+                                  height="56" src="/media/academics/tc/acrobat.png"></a></td>
                           </tr>
                         </tbody>
                       </table>
@@ -1599,10 +1604,10 @@ style="width:30px; height:56px;"style="width:30px; height:56px;"src="/images/acr
   <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
   <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
   <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
-  <script src="/src/extra/js/jquery.counterup.js"></script>
-  <script src="/src/extra/js/countdown.js"></script>
-  <script src="/src/extra/js/wow.min.js"></script>
-  <script src="/src/extra/js/main.js"></script>
+  <script src="/src/extra/javascript/jquery.counterup.js"></script>
+  <script src="/src/extra/javascript/countdown.js"></script>
+  <script src="/src/extra/javascript/wow.min.js"></script>
+  <script src="/src/extra/javascript/main.js"></script>
   <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
   <script type="text/javascript">
     // $(window).on('click',function(){

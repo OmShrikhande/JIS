@@ -331,7 +331,7 @@
             <li><a href="/src/about us/about-us.php">About</a>
               <ul class="submenu">
                 <li><a href="/src/about us/about-us.php">Overview</a></li>
-                <li><a href=".src/about us/message.php">Messages </a></li>
+                <li><a href="/src/about us/messages.php">Messages </a></li>
                 <li><a href="/src/about us/management.php">Management</a></li>
                 <li><a href="/src/about us/staff-details.php">Staff Details</a></li>
                 <!-- <li><a href="/src/about us/educational-model.php">Educational Model</a></li> -->
@@ -344,8 +344,8 @@
                 <li><a href="/src/academics/secondary-school.php">Secondary School</a></li>
                 <li><a href="/src/academics/senior-secondary.php">Senior Secondary</a></li>
                 <li><a href="/src/academics/academic-calender.php">Academic Calendar</a></li>
-                <li><a href="/src/booklist.php">Book List</a></li>
-                <li><a href="/src/tc.php">TC</a></li>
+                <!-- <li><a href="/src/academics/booklist.php">Book List</a></li> -->
+                <li><a href="/src/academics/tc.php">TC</a></li>
               </ul>
             </li>
             <li><a href="/src/life_at_jis/life-at-jis.php">Life at JIS</a></li>
@@ -361,8 +361,8 @@
             <li><a href="#">Beyond Academics</a>
               <ul class="submenu">
                 <li><a href="/src/beyond-academics/social-outreach.php">Social Outreach </a></li>
-                <li><a href="/src/beyond-academics/independence-day.php">Independence Day</a></li>
-                <li><a href="/src/beyond-academics/in-venture-ceremony.php">Investiture Ceremony</a></li>
+                <!-- <li><a href="/src/beyond-academics/independence-day.php">Independence Day</a></li> -->
+                <!-- <li><a href="/src/beyond-academics/in-venture-ceremony.php">Investiture Ceremony</a></li> -->
                 <li><a href="/src/beyond-academics/fastract-your-future.php">Fast Track your Future</a></li>
                 <li><a href="/src/beyond-academics/clubs.php">Clubs</a></li>
                 <li><a href="/src/beyond-academics/sports.php">Sports</a></li>
