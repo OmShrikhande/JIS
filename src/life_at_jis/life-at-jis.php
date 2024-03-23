@@ -163,7 +163,7 @@
 <body class="header-sticky">
   <!--===================Header===========-->
 
-  <? include'./Header/header.php' ?>
+  <?php include '../../header.html'?>
   <!--<div id="banner-area" class="banner-area" style="background-image: url(/images/life-at-jis-banner1.jpg)" data-hover-only="true">
       </div>-->
       <br><br>

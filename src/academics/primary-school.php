@@ -125,7 +125,7 @@
 
   <!--===================Header===========-->
 
-  <? include'./header.php' ?>
+  <?php include '../../header.html'?>
 
   <!--sticky panel-->
   <nav class="float-action-button hidden-xs">

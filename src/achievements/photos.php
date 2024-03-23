@@ -171,7 +171,7 @@
 
   <!--===================Header===========-->
 
- <? include'header.php' ?>
+  <?php include '../../header.html'?>
   <!--sticky panel-->
   <nav class="float-action-button hidden-xs">
     <a href="/index#events" class="buttons" title="Recent Events" data-toggle="tooltip" data-placement="left">
