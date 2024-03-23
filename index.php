@@ -283,9 +283,9 @@
 <body >
 <!-- <? include "../header.html" ?> -->
   <!--========Loader=========-->
-  <div class="loader text-center">
-    <div class="loader-position"><img src="/images/loader.gif" /></div>
-  </div>
+  <!-- <div class="loader text-center">
+    <div class="loader-position"><img src="media/index/loader.gif" /></div>
+  </div> -->
   <!--========End Loader=========-->
 
 
@@ -343,7 +343,7 @@
                 <li><a href="/src/academics/primary-school.php">Primary School</a></li>
                 <li><a href="/src/academics/secondary-school.php">Secondary School</a></li>
                 <li><a href="/src/academics/senior-secondary.php">Senior Secondary</a></li>
-                <li><a href="/src/academic-calender.php">Academic Calendar</a></li>
+                <li><a href="/src/academics/academic-calender.php">Academic Calendar</a></li>
                 <li><a href="/src/booklist.php">Book List</a></li>
                 <li><a href="/src/tc.php">TC</a></li>
               </ul>
