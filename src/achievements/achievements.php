@@ -12,7 +12,7 @@
       <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
       <![endif]-->
       <title>JIS | Achievements |  achievements</title>
-      <meta name="description"
+       <meta name="description"
     content=" The Jain International School is one of the best-equipped schools in India with facilities that support excellence in all areas.">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link href="/src/extra/css/bootstrap.css" rel="stylesheet" type="text/css" />
@@ -96,7 +96,7 @@
      <!--========End Banner===============-->
     <section style="padding-bottom: 0px">
         <div class="OMhead">
-      <img src="/DImages/Achievement/Photos/Achievements header.png" style="width:120%; height:100%; position:relative" >
+      <img src="/media/achievement/photos/Photos/Achievements header.png" style="width:120%; height:100%; position:relative" >
       
      
         </div>
@@ -113,10 +113,10 @@
                <h3 class="photo-title">Centunes - Hindi Duet</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/centunes.jpg" alt="read and grow compition">
+                  <img src="/media/achievement/photos/centunes.jpg" alt="read and grow compition">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/centunes.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/centunes.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -128,10 +128,10 @@
                <h3 class="photo-title">Level One Sanskrit Shloka Olympiyad</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/level one sanskrit shloka olympiyad.jpg" alt="read and grow compition">
+                  <img src="/media/achievement/photos/level one sanskrit shloka olympiyad.jpg" alt="read and grow compition">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/level one sanskrit shloka olympiyad.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/level one sanskrit shloka olympiyad.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -143,10 +143,10 @@
                <h3 class="photo-title">Science Talk EUREKA 2024</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/science talk EUREKA 2024.jpg" alt="read and grow compition">
+                  <img src="/media/achievement/photos/science talk EUREKA 2024.jpg" alt="read and grow compition">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/science talk EUREKA 2024.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/science talk EUREKA 2024.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -158,10 +158,10 @@
                <h3 class="photo-title">Read and Grow Compition</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/read and grow compition.jpg" alt="read and grow compition">
+                  <img src="/media/achievement/photos/read and grow compition.jpg" alt="read and grow compition">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/read and grow compition.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/read and grow compition.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -173,10 +173,10 @@
                <h3 class="photo-title" style="font-size:11.7px">budding scientist</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/budding scientist.jpeg" alt="">
+                  <img src="/media/achievement/photos/budding scientist.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/budding scientist.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/budding scientist.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -188,10 +188,10 @@
                <h3 class="photo-title" style="font-size:11.7px">CENTUNES</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/CENTUNES.jpeg" alt="">
+                  <img src="/media/achievement/photos/CENTUNES.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/CENTUNES.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/CENTUNES.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -202,10 +202,10 @@
                <h3 class="photo-title" style="font-size:11.7px">TAEKWONDO SUB JUNIOR</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/TAEKWONDO SUB JUNIOR.jpeg" alt="">
+                  <img src="/media/achievement/photos/TAEKWONDO SUB JUNIOR.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/TAEKWONDO SUB JUNIOR.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/TAEKWONDO SUB JUNIOR.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -216,10 +216,10 @@
                <h3 class="photo-title" style="font-size:11.7px">INTER SCHOOL GROUP DANCE</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/INTER SCHOOL GROUP DANCE.jpeg" alt="">
+                  <img src="/media/achievement/photos/INTER SCHOOL GROUP DANCE.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/INTER SCHOOL GROUP DANCE.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/INTER SCHOOL GROUP DANCE.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -231,10 +231,10 @@
                <h3 class="photo-title" style="font-size:11.7px">IIMUN</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/IIMUN.jpeg" alt="">
+                  <img src="/media/achievement/photos/IIMUN.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/IIMUN.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/IIMUN.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -245,10 +245,10 @@
                <h3 class="photo-title" style="font-size:11.7px">STATE QWAN KI DO</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/STATE QWAN KI DO.jpeg" alt="">
+                  <img src="/media/achievement/photos/STATE QWAN KI DO.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/STATE QWAN KI DO.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/STATE QWAN KI DO.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -260,10 +260,10 @@
                <h3 class="photo-title" style="font-size:11.7px">Y.M.C.A. Badminton Tournament</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/ymca badminton tournament.jpg" alt="">
+                  <img src="/media/achievement/photos/ymca badminton tournament.jpg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/ymca badminton tournament.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/ymca badminton tournament.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -275,10 +275,10 @@
                <h3 class="photo-title">MIMUN</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/minun.jpg" alt="">
+                  <img src="/media/achievement/photos/minun.jpg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/minun.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/minun.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -289,10 +289,10 @@
                <h3 class="photo-title">National Level Math Compition</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/national level math compition.jpg" alt="">
+                  <img src="/media/achievement/photos/national level math compition.jpg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/national level math compition.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/national level math compition.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -303,10 +303,10 @@
                <h3 class="photo-title">Exquizit</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/Exquizit.jpg" alt="">
+                  <img src="/media/achievement/photos/Exquizit.jpg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/Exquizit.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/Exquizit.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -317,10 +317,10 @@
                <h5 class="photo-title">SIP Abacus National Prodigy</h5>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/SIP Abacus National Prodigy.jpg" alt="">
+                  <img src="/media/achievement/photos/SIP Abacus National Prodigy.jpg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/SIP Abacus National Prodigy.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/SIP Abacus National Prodigy.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -331,10 +331,10 @@
                <h3 class="photo-title">Speech Weavers</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/SPEECH WEAVERS.jpeg" alt="">
+                  <img src="/media/achievement/photos/SPEECH WEAVERS.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/SPEECH WEAVERS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/SPEECH WEAVERS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -345,10 +345,10 @@
                <h3 class="photo-title">Skating Palloti School</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/SKATING PALLOTTI SCHOOL.jpeg" alt="SKATING PALLOTTI SCHOOL">
+                  <img src="/media/achievement/photos/SKATING PALLOTTI SCHOOL.jpeg" alt="SKATING PALLOTTI SCHOOL">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/SKATING PALLOTTI SCHOOL.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/SKATING PALLOTTI SCHOOL.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -359,10 +359,10 @@
                <h3 class="photo-title">Science Working Model</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/SCIENCE WORKING MODEL.jpeg" alt="">
+                  <img src="/media/achievement/photos/SCIENCE WORKING MODEL.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/SCIENCE WORKING MODEL.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/SCIENCE WORKING MODEL.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -373,10 +373,10 @@
                <h3 class="photo-title">Sanskrit Katha</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/SANSKRIT KATHA.jpeg" alt="">
+                  <img src="/media/achievement/photos/SANSKRIT KATHA.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/SANSKRIT KATHA.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/SANSKRIT KATHA.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -389,10 +389,10 @@
                <h3 class="photo-title">PESAC</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/PESAC 3.png" alt="">
+                  <img src="/media/achievement/photos/PESAC 3.png" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/PESAC 3.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/PESAC 3.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -405,10 +405,10 @@
                <h3 class="photo-title">PESAC</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/PESAC 2.png" alt="">
+                  <img src="/media/achievement/photos/PESAC 2.png" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/PESAC 2.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/PESAC 2.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -419,10 +419,10 @@
                <h3 class="photo-title">PESAC</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/PESAC 1.png" alt="">
+                  <img src="/media/achievement/photos/PESAC 1.png" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/PESAC 1.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/PESAC 1.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -434,10 +434,10 @@
                <h3 class="photo-title">Hindi Essay</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/HINDI ESSAY.jpeg" alt="">
+                  <img src="/media/achievement/photos/HINDI ESSAY.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/HINDI ESSAY.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/HINDI ESSAY.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -448,10 +448,10 @@
                <h3 class="photo-title">Hindi Elocution</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/HINDI EL0CUTION.jpeg" alt="">
+                  <img src="/media/achievement/photos/HINDI EL0CUTION.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/HINDI EL0CUTION.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/HINDI EL0CUTION.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -462,10 +462,10 @@
                <h3 class="photo-title">Taluka DSO Chess</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/TALUKA DSO CHESS.jpeg" alt="">
+                  <img src="/media/achievement/photos/TALUKA DSO CHESS.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/TALUKA DSO CHESS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/TALUKA DSO CHESS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -477,10 +477,10 @@
                <h3 class="photo-title">DSO Swimming</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DSO Swimming.jpeg" alt="">
+                  <img src="/media/achievement/photos/DSO Swimming.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DSO Swimming.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DSO Swimming.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -492,10 +492,10 @@
                <h3 class="photo-title">DSO Soft Tennise</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DSO SOFT TENNIS.jpeg" alt="">
+                  <img src="/media/achievement/photos/DSO SOFT TENNIS.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DSO SOFT TENNIS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DSO SOFT TENNIS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -506,10 +506,10 @@
                <h3 class="photo-title">DSO Martial Art</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DSO Martial art.jpeg" alt="">
+                  <img src="/media/achievement/photos/DSO Martial art.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DSO Martial art.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DSO Martial art.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -521,10 +521,10 @@
                <h3 class="photo-title">DSO Chess</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DSO CHESS.jpeg" alt="">
+                  <img src="/media/achievement/photos/DSO CHESS.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DSO CHESS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DSO CHESS.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -535,10 +535,10 @@
                <h3 class="photo-title">DSO Basketball</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DSO Basketball.jpeg" alt="">
+                  <img src="/media/achievement/photos/DSO Basketball.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DSO Basketball.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DSO Basketball.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -549,10 +549,10 @@
                <h3 class="photo-title">DPS Litfest</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/DPS LITFEST 1.jpeg" alt="">
+                  <img src="/media/achievement/photos/DPS LITFEST 1.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/DPS LITFEST 1.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/DPS LITFEST 1.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -563,10 +563,10 @@
                <h3 class="photo-title">Akhil Bhartiya</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
-                  <img src="/DImages/Achievement/AKHIL BHARATIYA.jpeg" alt="">
+                  <img src="/media/achievement/photos/AKHIL BHARATIYA.jpeg" alt="">
                   <div class="caption-box clearfix">
                     <div class="icon-box">
-                      <a href="/DImages/Achievement/AKHIL BHARATIYA.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
+                      <a href="/media/achievement/photos/AKHIL BHARATIYA.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </figure>
@@ -591,32 +591,32 @@
       </a>
       
       <!-- Javascript -->
-      <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
-
-  
-  <!--<script type="text/javascript" src="javascript/smoothscroll.js"></script>-->
-  <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
-  <script src="/src/extra/js/jquery.counterup.js"></script>
-  <script src="/src/extra/js/countdown.js"></script>
-  <script src="/src/extra/js/wow.min.js"></script>
-  <script src="/src/extra/js/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/bootstrap.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.easing.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/imagesloaded.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.isotope.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/owl.carousel.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery-waypoints.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.flexslider-min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.cookie.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.fitvids.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery-validate.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.magnific-popup.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/parallax.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.countdown.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.sticky.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/smoothscroll.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/main.js"></script>
+      <!-- Revolution Slider -->
+      <script type="text/javascript" src="./src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/slider.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/mixitup.js"></script>
+      <script type="text/javascript" src="./src/extra/javascript/jquery.fancybox.js"></script>
+      <script src="./src/extra/javascript/jquery.counterup.js"></script>
+      <script src="./src/extra/javascript/wow.js"></script>
+      <script src="./src/extra/javascript/funky-script.js"></script>
     </body>
   </html>

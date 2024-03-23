@@ -668,33 +668,34 @@ Little Jewels Kindergarten.
     <i class="fa fa-angle-up"></i>
   </a>
 
-  <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
+  <script type="text/javascript" src="/src/extra/javascri
+  pt/jquery.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.easing.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/imagesloaded.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.isotope.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/owl.carousel.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery-waypoints.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.flexslider-min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.cookie.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery-validate.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/parallax.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.countdown.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.sticky.js"></script>
 
   
   <!--<script type="text/javascript" src="javascript/smoothscroll.js"></script>-->
-  <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
-  <script src="/src/extra/js/jquery.counterup.js"></script>
-  <script src="/src/extra/js/countdown.js"></script>
-  <script src="/src/extra/js/wow.min.js"></script>
-  <script src="/src/extra/js/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/main.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
+  <script src="./src/extra/javascript/jquery.counterup.js"></script>
+  <script src="./src/extra/javascript/countdown.js"></script>
+  <script src="./src/extra/javascript/wow.min.js"></script>
+  <script src="./src/extra/javascript/main.js"></script>
+  <script type="text/javascript" src="./src/extra/javascript/parallax.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
 
