@@ -9,7 +9,7 @@
 
   <meta charset="utf-8">
   <title>Parents Corner | The Jain International School</title>
-  <link rel="icon" type="image/png" href="/media/parent_corner/favicon.png">
+  <link rel="icon" type="image/png" href="/images/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description"
@@ -38,14 +38,24 @@
     }
   </style>
   <style type="text/css">
+  body{
+      background-color: #f5f5dc;
+  }
     * {
       box-sizing: border-box;
     }
 
     .column {
       float: left;
-      width: 50%;
-      padding: 15px;
+      width: 45%;
+      padding:2.5%;
+      border:10px;
+     margin-right:3.5%;
+     margin-bottom:3.5%;
+    }
+    
+    .column > img{
+      box-shadow:10px 10px 10px 10px ;   
     }
 
     /* Clearfix (clear floats) */
@@ -118,10 +128,10 @@
 <body>
   <!--===================Header===========-->
 
- <? include'./Header/header.php' ?>
+  <?php include '../../header.html'?>
   <!--===================End Header===========-->
   <section style="padding-bottom: 0px">
-    <img src="/images/parents_banner_1.jpg"style="width: 2018px; height: 450px" class="busban4">
+    <img src="/media/parent_corner/parents_banner_1.jpg"style="width: 2018px; height: auto" class="busban4">
   </section>
   <section class="pad-60">
     <div class="container">
@@ -136,35 +146,39 @@
 
       <div class="row">
         <div class="column">
-          <img src="/images/parents-corner/parents corner1.jpg" alt="Snow" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/madhu Kathuria.jpg" alt="Forest" style="width:100%;height:max-content">
+        </div>
+     
+          
+        <div class="column">
+          <img src="/media/parent_corner/Copy of TESTIMONIAL - NEEV SHAH 2023-24.jpeg" alt="Snow" style="width:100%;height:max-content;">
         </div>
         <div class="column">
-          <img src="/images/parents-corner/parents corner.jpeg" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Angad 2.png" alt="Forest" style="width:100%;height:max-content">
         </div>
         <div class="column">
-          <img src="/images/parents-corner/PT.jpeg" alt="Snow1" style="width:97%;height:97%">
+          <img src="/media/parent_corner/Testimonial Armaan 1.png" alt="Snow1" style="width:97%;height:97%">
         </div>
         
          <div class="column">
-          <img src="https://drive.google.com/uc?export=view&id=1CatmWELygg4aYHAqfIRgiITI3JgUif45" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Arshan 4.png" alt="Forest" style="width:100%;height:max-content">
         </div>
         
          <div class="column">
-          <img src="https://drive.google.com/uc?export=view&id=19yI_kAvu7euQv5FxpodCd7SB_-_PKTuz" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Hegde 3.jpg" alt="Forest" style="width:100%;height:max-content">
         </div>
         
         <div class="column">
-          <img src="https://drive.google.com/uc?export=view&id=1tGSznB3OTM_Tg5cXBbqds03af3dguSD0" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Lakshya _ Preesha Chawla 7.jpeg" alt="Forest" style="width:100%;height:max-content">
         </div>
-        
+        <!--
         <div class="column">
-          <img src="https://drive.google.com/uc?export=view&id=16ARYwH5cuiDzWuoO2vSUN5BveB6Ka-cV" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Prana 6.png" alt="Forest" style="width:100%;height:max-content; margin-top: -64.5%;">
         </div>
-        
+        -->
         <div class="column">
-          <img src="https://drive.google.com/uc?export=view&id=1DdUNeQtU3geD2XTEzba9LepnmLOXMSb6" alt="Forest" style="width:100%;height:max-content">
+          <img src="/media/parent_corner/Testimonial Radhika 5.png" alt="Forest" style="width:100%;height:max-content">
         </div>
-       
       </div>
 
 
@@ -176,7 +190,7 @@
       <div class="parent-card">
         <div class="row">
           <div class="col-md-4 text-center">
-            <img src="/images/parents-corner/mr.vishnu.jpg">
+            <img src="/media/parent_corner/mr.vishnu.jpg">
             <p class="parents-name">Mr. Vishnu Tambi</p>
             <p class="parent-degination">Parent of Avni (VII) & Vedaant (VIII)</p>
           </div>
@@ -221,7 +235,7 @@
       <div class="parent-card">
         <div class="row">
           <div class="col-md-4 text-center">
-            <img src="/images/parents-corner/swati.jpg">
+            <img src="/media/parent_corner/swati.jpg">
             <p class="parents-name">Mrs. Swati Banerjee</p>
             <p class="parent-degination">Parent of Anika (II) & Rianna (I)</p>
           </div>
@@ -461,32 +475,32 @@
   <a class="go-top">
     <i class="fa fa-angle-up"></i>
   </a>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
-  <script src="/src/extra/javascript/contact-form.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/smoothscroll.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
-  <script src="/src/extra/js/jquery.counterup.js"></script>
-  <script src="/src/extra/js/countdown.js"></script>
-  <script src="/src/extra/js/wow.min.js"></script>
-  <script src="/src/extra/js/main.js"></script>
-  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+  <script type="text/javascript" src="javascript/jquery.min.js"></script>
+  <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+  <script src="/javascript/contact-form.js"></script>
+  <script type="text/javascript" src="javascript/jquery.easing.js"></script>
+  <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
+  <script type="text/javascript" src="javascript/owl.carousel.js"></script>
+  <script type="text/javascript" src="javascript/jquery.mb.YTPlayer.js"></script>
+  <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+  <script type="text/javascript" src="javascript/jquery.flexslider-min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+  <script type="text/javascript" src="javascript/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="javascript/jquery-validate.js"></script>
+  <script type="text/javascript" src="javascript/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript" src="javascript/parallax.js"></script>
+  <script type="text/javascript" src="javascript/jquery.countdown.js"></script>
+  <script type="text/javascript" src="javascript/jquery.sticky.js"></script>
+  <script type="text/javascript" src="javascript/smoothscroll.js"></script>
+  <script type="text/javascript" src="javascript/main.js"></script>
+  <script type="text/javascript" src="javascript/jquery.themepunch.tools.min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.themepunch.revolution.min.js"></script>
+  <script src="js/jquery.counterup.js"></script>
+  <script src="js/countdown.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/main.js"></script>
+  <script type="text/javascript" src="javascript/parallax.js"></script>
   <script type="text/javascript">
     // $(window).on('click',function(){
     //  setTimeout(function(){
