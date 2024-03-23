@@ -327,14 +327,14 @@
       <div class="nav-wrap">
         <nav class="mainnav" id="mainnav" style="padding-top:20px">
           <ul class="menu">
-            <li><a href="/src/index.php">Home</a></li>
-            <li><a href="/src/about-us.php">About</a>
+            <li><a href="/index.php">Home</a></li>
+            <li><a href="/src/about us/about-us.php">About</a>
               <ul class="submenu">
-                <li><a href="/src/about-us.php">Overview</a></li>
-                <li><a href="/src/messages.php">Messages </a></li>
-                <li><a href="/src/management.php">Management</a></li>
-                <li><a href="/src/staff-details.php">Staff Details</a></li>
-                <li><a href="/src/educational-model.php">Educational Model</a></li>
+                <li><a href="/src/about us/about-us.php">Overview</a></li>
+                <li><a href=".src/about us/message.php">Messages </a></li>
+                <li><a href="/src/about us/management.php">Management</a></li>
+                <li><a href="/src/about us/staff-details.php">Staff Details</a></li>
+                <!-- <li><a href="/src/about us/educational-model.php">Educational Model</a></li> -->
               </ul>
             </li>
             <li><a href="#">Academics</a>
@@ -348,7 +348,7 @@
                 <li><a href="/src/tc.php">TC</a></li>
               </ul>
             </li>
-            <li><a href="/src/life-at-jis.php">Life at JIS</a></li>
+            <li><a href="/src/life_at_jis/life-at-jis.php">Life at JIS</a></li>
             <li><a href="#">Facilities</a>
               <ul class="submenu">
                 <li><a href="/src/facilities/cafeteria.php">Cafeteria</a></li>
@@ -371,10 +371,10 @@
                 <li><a href="/src/beyond-academics/videos.php">Videos</a></li>
               </ul>
             </li>
-            <li><a href="/src/parents-corner.php">Parents Corner</a></li>
+            <li><a href="/src/parents-corner/parents-corner.php">Parents Corner</a></li>
             <li><a href="#">Achievements</a>
               <ul class="submenu">
-                <li><a href="/src/achievements/photos.php">Photos</a></li>
+                <li><a href="/src/achievements/achievements.php">Photos</a></li>
 
                 <li><a href="/src/achievements/media-coverage.php">Media Coverage</a></li>
               </ul>
