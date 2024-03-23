@@ -279,9 +279,9 @@
 
 
 
-<? include "../header.php" ?>
-<body >
 
+<body >
+<? include "../header.html" ?>
   <!--========Loader=========-->
   <div class="loader text-center">
     <div class="loader-position"><img src="/images/loader.gif" /></div>
