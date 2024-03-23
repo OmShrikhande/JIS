@@ -1,0 +1,138 @@
+.alumni-heading
+{
+	font-size: 25px;
+	font-weight: 400;
+	color: #5b5959;
+	line-height: 1.5;
+
+}
+
+.row-spacing
+{
+	margin-top: 80px;
+   
+}
+.row-spacing-bottom
+{
+	margin-bottom: 80px;
+}
+.row-background
+{
+	background-color: #f8f8f8;
+}
+.separator
+{
+  background: #ffcc28;
+    width: 60px;
+    height: 2px;
+    margin-top: 20px;
+}
+.text
+{
+	color: #5b5959;
+	font-size: 15px;
+	line-height: 1.9;
+	font-weight: 400;
+	margin-top: 30px;
+	
+}
+.row-2-text
+{
+    color: #5b5959;
+	font-size: 15px;
+	line-height: 1.9;
+	font-weight: 400;	
+}
+.box
+{
+	width: 510px;
+	height: 330px;
+	background-color:#3e3f95;
+	margin-left: -180px !important;
+	z-index: 3;
+}
+.box-text
+{
+	color: white;
+	font-size: 15px;
+	line-height: 1.9;
+	font-weight: 400;
+	padding: 70px;
+}
+.image
+{
+	z-index: 4;
+}
+.contain
+{
+	margin-left: -100px;
+	margin-top: 35px;
+	padding-right: 50px;
+}
+.padding-space
+{
+	text-align: center;
+	padding: 80px;
+}
+.image-footer
+{
+	width: 290px;
+	height:67px;
+	background-color: white;
+	margin-left: 30px;
+   position: relative;
+   margin-top: -32px;
+   border-bottom: #ffcc28 solid 4px;
+}
+.image-footer-padding
+{
+	padding: 20px;
+	font-size: 20px;
+	font-weight: 400;
+	color: #5b5959;
+	line-height: 1.5;
+}
+/*media queries */
+@media(max-width: 600px)
+{
+
+  .box
+  {
+	width: 359px;
+	height: 245px;
+	margin-left: -34px !important;
+  }
+  .box-text
+  {
+	padding: 37px;
+  }
+  .contain
+  {
+  	margin-left: 7px;
+  }
+  .padding-space
+{
+	
+	padding: 40px;
+}
+   .image-footer
+{
+	width: 225px;
+	height:50px;
+	margin-left: 24px;
+   margin-top: -26px;
+   margin-bottom: 40px;
+}
+.row-spacing
+{
+	margin-top: 38px;
+   
+}
+.row-spacing-bottom
+{
+	margin-bottom: 30px;
+}
+
+}
+
+/*media queries */

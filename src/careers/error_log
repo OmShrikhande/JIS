@@ -1,0 +1,10 @@
+[05-Jan-2024 19:38:31 UTC] PHP Warning:  include(./Header/header.php): Failed to open stream: No such file or directory in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:38:31 UTC] PHP Warning:  include(): Failed opening './Header/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:38:40 UTC] PHP Warning:  include(./Header/header.php): Failed to open stream: No such file or directory in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:38:40 UTC] PHP Warning:  include(): Failed opening './Header/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:40:39 UTC] PHP Warning:  include(./Header/header.php): Failed to open stream: No such file or directory in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:40:39 UTC] PHP Warning:  include(): Failed opening './Header/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:41:51 UTC] PHP Warning:  include(/Header/header.php): Failed to open stream: No such file or directory in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:41:51 UTC] PHP Warning:  include(): Failed opening '/Header/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:42:59 UTC] PHP Warning:  include(/Header/header.php): Failed to open stream: No such file or directory in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
+[05-Jan-2024 19:42:59 UTC] PHP Warning:  include(): Failed opening '/Header/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/jainiqqf/public_html/Carrer/carrer.php on line 203
