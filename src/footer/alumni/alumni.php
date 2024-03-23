@@ -17,20 +17,20 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
        <meta name="author" content="Flying Penguins">
        <meta name="description" content="Our Alumni and there golden words">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.css" >
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/bootstrap.css" >
 
-      <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/style.css">
       <!-- Responsive -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/responsive.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/responsive.css">
       <!-- Colors -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/colors/color1.css" id="colors">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/colors/color1.css" id="colors">
       <!-- Animation Style -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/animate.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/funky.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/primary-school.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/select2.min.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/custom.css">
-      <!-- <link rel="stylesheet" type="text/css" href="/stylesheets/funky.css"> -->
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/animate.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/primary-school.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/select2.min.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/custom.css">
+      <!-- <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css"> -->
       <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
       <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -40,7 +40,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
 
-      <link rel="stylesheet" type="text/css" href="/stylesheets/alumni.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/alumni.css">
       
       
       <style>
@@ -138,7 +138,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 
       <!--===================Header===========-->
 
-    <? include'./Header/header.php' ?>
+      <?php include '../../../header.html'?>
       <!--===================End Header===========-->
      <div id="banner-area" class="banner-area busban3" style="background-image: url(/images/alumini-banner.jpg)" data-hover-only="true">
     </div>
@@ -153,7 +153,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
             <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/shubham.jpg">
+                <img src="/media/alumni/shubham.jpg">
                 <p class="parents-name">Shubham Jejani</p>
                 <p style="margin-bottom:px;"><pre>   08888555624</pre></p>
                 <a href="mailto:shubhamjejani.com">shubhamjejani.com</a>
@@ -192,7 +192,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
                   <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/anirudha.jpg">
+                <img src="/media/alumni/anirudha.jpg">
                 <p class="parents-name">Aniruddha Rajaramka</p>
                 <a href="mailto:arajaramka@gmail.com">arajaramka@gmail.com</a>
               </div>
@@ -215,20 +215,20 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 <div class="row11">
   <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/1.jpeg" alt="Snow" style="width: 200%;max-width: none;">   </div>
+    <img src="/media/alumni/1.jpeg" alt="Snow" style="width: 200%;max-width: none;">   </div>
     <p>Mr.Rohit Pant 
                <br>  B.TECH IIT (Guwahati) <br>
              Working as an Associate at Goldman Sachs  </p>
   </div>
   <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/2.jpeg" alt="Forest" style="width: 175%;max-width: none;">  </div>
+    <img src="/media/alumni/2.jpeg" alt="Forest" style="width: 175%;max-width: none;">  </div>
     <p>Dr.Shruti Bhojwani <br>
      BDS, VSPM Dental College & Research Center, Nagpur </p>
   </div>
   <div class="column11">
        <div class="img11">
-    <img src="/images/alumni/3.jpeg" alt="Mountains" style="width: 200%;max-width: none;">   </div>
+    <img src="/media/alumni/3.jpeg" alt="Mountains" style="width: 200%;max-width: none;">   </div>
     <p>CA Bhavya Kothary <br>
                 Working at Nomura Financial Services Ltd. <br>
                  (Japanese Investment Bank) </p>
@@ -241,7 +241,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 <div class="row11">
   <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/4.jpeg" alt="Snow" style="width: 175%;max-width: none;">   </div>
+    <img src="/media/alumni/4.jpeg" alt="Snow" style="width: 175%;max-width: none;">   </div>
     <p>Dr.Sakshi Bhojwani  <br>                                                                                                                                       
              MBBS, Shri Shankaracharya    <br>
             Institute of Medical Sciences, Bhilai</p>
@@ -255,7 +255,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
         </div>
      <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/6.jpg" alt="Forest" style="width: 200%;max-width: none;">  </div>
+    <img src="/media/alumni/6.jpg" alt="Forest" style="width: 200%;max-width: none;">  </div>
    <p>Ms.Harsha Namdeo<br>B.Tech in Metallurgical and Materials Engineering (MME)<br>Pursuing Masters in Advance Materials & Processes from FAU, Germany </p>
   </div>
 </div>
@@ -263,13 +263,13 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 <div class="row11">
   <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/7.jpg" alt="Snow" style="width: 175%;max-width: none;">   </div>
+    <img src="/media/alumni/7.jpg" alt="Snow" style="width: 175%;max-width: none;">   </div>
     <p>Ms.Rupal Singh 
                <br>  HR Coordinator – IVEOND Consultancy Services, Hyderabad  </p>
   </div>
   <div class="column11">
       <div class="img11">
-    <img src="/images/alumni/8.jpg" alt="Forest" style="width: 175%;max-width: none;">  </div>
+    <img src="/media/alumni/8.jpg" alt="Forest" style="width: 175%;max-width: none;">  </div>
     <p>Ms.Osheen Arora<br>
     M.Sc Chemistry, B.E. Mechanical 
  Credit Risk Analyst- J P Morgan Chase & Company
@@ -286,7 +286,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
           <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/1.jpeg" style="width:100%">
+                <img src="/media/alumni/1.jpeg" style="width:100%">
                 <p class="parents-name">Mr.Rohit Pant <br>
                  B.TECH IIT (Guwahati) <br>
              Working as an Associate at Goldman Sachs  </p>
@@ -303,7 +303,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
               <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/2.jpeg" style="width:100%">
+                <img src="/media/alumni/2.jpeg" style="width:100%">
                 <p class="parents-name">Dr.Shruti Bhojwani <br>
 						    BDS, VSPM Dental College & Research Center, Nagpur </p>
 						    
@@ -320,7 +320,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
               <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/3.jpeg" style="width:100%">
+                <img src="/media/alumni/3.jpeg" style="width:100%">
                 <p class="parents-name">CA Bhavya Kothary <br>
                 Working at Nomura Financial Services Ltd. <br>
                  (Japanese Investment Bank) </p>
@@ -336,7 +336,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
               <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/4.jpeg">
+                <img src="/media/alumni/4.jpeg">
                 <p class="parents-name">Dr.Sakshi Bhojwani  <br>                                                                                                                                       
              MBBS, Shri Shankaracharya    <br>
             Institute of Medical Sciences, Bhilai</p>
@@ -351,7 +351,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
               <div class="parent-card">
               <div class="row">
               <div class="col-md-4 text-center">
-                <img src="/images/alumni/5.jpeg">
+                <img src="/media/alumni/5.jpeg">
                 <p class="parents-name">Ms.Aprajita Sharma <br>
        Pursuing Jurisprudence (Law)     
          at The University of Oxford  </p>
@@ -443,31 +443,31 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
       </a>
       
       <!-- Javascript -->
-      <script type="text/javascript" src="/javascript/jquery.min.js"></script>
-      <script type="text/javascript" src="/javascript/bootstrap.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.easing.js"></script>
-      <script type="text/javascript" src="/javascript/imagesloaded.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.isotope.min.js"></script>
-      <script type="text/javascript" src="/javascript/owl.carousel.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.mb.YTPlayer.js"></script>
-      <script type="text/javascript" src="/javascript/jquery-waypoints.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.flexslider-min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.cookie.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.fitvids.js"></script>
-      <script type="text/javascript" src="/javascript/jquery-validate.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.magnific-popup.min.js"></script>
-      <script type="text/javascript" src="/javascript/parallax.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.countdown.js"></script>
-      <!-- // <script type="text/javascript" src="javascript/switcher.js"></script> -->
-      <script type="text/javascript" src="/javascript/jquery.sticky.js"></script>
-      <script type="text/javascript" src="/javascript/smoothscroll.js"></script>
-      <script type="text/javascript" src="/javascript/main.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
+      <!-- // <script type="text/javascript" src="/src/extra/javascript/switcher.js"></script> -->
+      <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/smoothscroll.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
       <!-- Revolution Slider -->
-      <script type="text/javascript" src="/javascript/jquery.themepunch.tools.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.themepunch.revolution.min.js"></script>
-      <script type="text/javascript" src="/javascript/slider.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/slider.js"></script>
       <!-- Counter Up -->
-      <script src="/js/jquery.counterup.js"></script>
+      <script src="/src/extra/javascript/jquery.counterup.js"></script>
       <script type="text/javascript">
      // $(window).on('click',function(){
       //  setTimeout(function(){

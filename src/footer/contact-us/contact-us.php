@@ -16,14 +16,14 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
        <meta name="author" content="Flying Penguins">
        <meta name="description" content="We are always available to sort out your queries and further guidance.">
-      <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-      <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
-      <link rel="stylesheet" type="text/css" href="stylesheets/select2.min.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/custom.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/funky.css">
-      <link rel="stylesheet" type="text/css" href="stylesheets/jquery.fancybox.min.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/bootstrap.css" >
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/style.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/responsive.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/colors/color1.css" id="colors">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/select2.min.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/custom.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/jquery.fancybox.min.css">
       <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
       <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -93,9 +93,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
     <body class="header-sticky">
 
       <!--===================Header===========-->
-
-    
-      <?php include '../../header.html'?>
+      <?php include '../../../header.html'?>
       <!--===================End Header===========-->
       <!--========Banner===============-->
       <section style="padding-bottom: 0px">
@@ -214,34 +212,34 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
       </a>
      <!--============End Bottom==============-->
       <!-- Javascript -->
-      <script type="text/javascript" src="javascript/jquery.min.js"></script>
-      <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
-      <script src="javascript/contact-form.js"></script>
-      <script type="text/javascript" src="javascript/jquery.easing.js"></script>
-      <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-      <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-      <script type="text/javascript" src="javascript/owl.carousel.js"></script>
-      <script type="text/javascript" src="javascript/jquery.mb.YTPlayer.js"></script>
-      <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
-      <script type="text/javascript" src="javascript/jquery.flexslider-min.js"></script>
-      <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-      <script type="text/javascript" src="javascript/jquery.fitvids.js"></script>
-      <script type="text/javascript" src="javascript/jquery-validate.js"></script>
-      <script type="text/javascript" src="javascript/jquery.magnific-popup.min.js"></script>
-      <script type="text/javascript" src="javascript/parallax.js"></script>
-      <script type="text/javascript" src="javascript/jquery.countdown.js"></script>
-      <script type="text/javascript" src="javascript/jquery.sticky.js"></script>
-      <script type="text/javascript" src="javascript/smoothscroll.js"></script>
-      <script type="text/javascript" src="javascript/main.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
+      <script src="/src/extra/javascript/contact-form.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/smoothscroll.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
       <!-- Revolution Slider -->
-      <script type="text/javascript" src="javascript/jquery.themepunch.tools.min.js"></script>
-      <script type="text/javascript" src="javascript/jquery.themepunch.revolution.min.js"></script>
-      <script type="text/javascript" src="javascript/slider.js"></script>
-      <script type="text/javascript" src="javascript/mixitup.js"></script>
-      <script type="text/javascript" src="js/jquery.fancybox.js"></script>
-      <script src="js/jquery.counterup.js"></script>
-      <script src="javascript/wow.js"></script>
-      <script src="javascript/funky-script.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/slider.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/mixitup.js"></script>
+      <script type="text/javascript" src="/src/extra/javascript/jquery.fancybox.js"></script>
+      <script src="/src/extra/javascript/jquery.counterup.js"></script>
+      <script src="/src/extra/javascript/wow.js"></script>
+      <script src="/src/extra/javascript/funky-script.js"></script>
       <script type="text/javascript">
      // $(window).on('click',function(){
       //  setTimeout(function(){
