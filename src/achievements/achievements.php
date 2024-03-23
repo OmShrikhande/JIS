@@ -76,7 +76,7 @@
     <body class="header-sticky" >
 
      <!--===================Header===========-->
-     <? include'header.php' ?>
+     <?php include '../../header.html'?>
       <!--end sticky panel-->
       <!--========Banner===============-->
       <!-- <div id="banner-area" class="banner-area" style="background-image: url(/images/achievement-banner.jpg)" data-hover-only="true">
@@ -126,7 +126,7 @@
             </div>
             
             <div class="gallery-item mix all events  col-lg-2 " style="padding-top: 3px;">
-               <h3 class="photo-title">ac2</h3>
+               <h3 class="photo-title">SIP Abacus National prodigy</h3>
               <div class="inner-box"> 
                 <figure class="image-box media-img">
                   <img src="/media/achievement/photos/ac2.jpg" alt="read and grow compition">
