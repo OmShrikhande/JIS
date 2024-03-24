@@ -74,8 +74,8 @@
       </nav>
       <!--end sticky panel-->
 
-<div id="banner-area" class="banner-area" style="background-image: url(https://dummyimage.com/1920x500/cfcfcf/000000)" data-hover-only="true">
-  </div>
+<!-- <div id="banner-area" class="banner-area" style="background-image: url(https://dummyimage.com/1920x500/cfcfcf/000000)" data-hover-only="true">
+  </div> -->
 
  <!-- Blog posts -->
  <!-- Blog single -->

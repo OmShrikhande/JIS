@@ -74,8 +74,8 @@
       </nav>
       <!--end sticky panel-->
 
-<div id="banner-area" class="banner-area" style="background-image: url(https://dummyimage.com/1920x500/cfcfcf/000000)" data-hover-only="true">
-  </div>
+<!-- <div id="banner-area" class="banner-area" style="background-image: url(https://dummyimage.com/1920x500/cfcfcf/000000)" data-hover-only="true">
+  </div> -->
 
  <!-- Blog posts -->
  <!-- Blog single -->
@@ -86,16 +86,16 @@
                     <div class="col-md-12">
                         <article class="entry">
                             <div class="feature-post">
-                               <center> <img src="./Blog_img/bg1.jpeg" alt="image" style="width: 35%; height:35%"></center>
+                               <center> <img src="/media/blogs/8. meditation-1384758_960_720.jpg" alt="image" style="width: 35%; height:35%"></center>
                             </div>
                             <div class="main-post">
                                 <div class="row">
                                     <div class="col-md-10 col-md-offset-1">
-                                        <h2 class="title-post"><a href="#">Nurturing Independence in Children: A Family's Approach</a></h2>
+                                        <h2 class="title-post"><a href="#">संयम से सफलता</a></h2>
                                         <div class="meta-post clearfix">
                                             <ul>    
                                                 <li class="post-author">
-                                                    <span><a href="#">By Kalash Pathak</a></span>
+                                                    <span><a href="#">Mrs. Chanchala Kumari </a></span>
                                                 </li>                                        
                                                 <li class="post-date">Oct, 2023</li>
                                                 
@@ -105,25 +105,20 @@
                                             <p>Discription</p>
                                         </div>      
                                         <div class="entry-post">
-                                            <p>In today's fast-paced world, modern parenting faces unique challenges, especially in households with working parents and a nuclear family setup. A child's character development becomes crucial in such an environment. At the heart of this endeavor lies the goal of grooming children to be self-reliant individuals.</p>
-                                            <p>The journey of guiding our child, Kalash, towards self-reliance has been both rewarding and enlightening. In this article, we share our approach, focusing on three fundamental principles that have helped us shape Kalash's ability to make independent decisions.</p>
-
-                                            <ul>
-                                                <li><b>Building a Friendly Environment: </b>
-We realized that children learn more from what they experience than from what we teach. Therefore, we initiated the process by creating a friendly atmosphere at home. Within our family, honesty and accountability are paramount. By being honest with each other and taking responsibility for our actions, we set an example for Kalash. This environment encourages her to be accountable for her choices.
-</li>
-                                                <li><b>Open and Non-Judgmental Communication: </b>
-The second principle centers on open and non-judgmental communication. We encourage all family members, including Kalash, to express their thoughts and feelings without fear of judgment. This fosters trust and confidence within the family unit. It also means that Kalash can approach us with concerns, even if they involve revealing a mistake or an untruth on our part. Our response is crucial - a calm, understanding approach, coupled with an apology if necessary, reinforces that her opinion is valued and heard.
- </li>
-                                                <li><b>Helping Children Decide Right from Wrong: </b>
-Perhaps the most critical aspect of nurturing independence is helping children discern right from wrong. We introduced Kalash to a simple litmus test - how would she feel about sharing her actions with us when she returns home? Would it evoke feelings of happiness, pride, fear, or regret? Anything that she wouldn't feel comfortable sharing falls into the category of actions to avoid. We emphasize that even if she makes a mistake or a poor decision, we are her first line of support. After all, a family operates as a team, watching out for each other.
-</li>
-                                            </ul>
-                                            <p>In conclusion, our family motto is simple - "Preach in public, but practice in private." We believe in leading by example and fostering an environment that allows our child to grow into a self-reliant and responsible individual.  
-
-<br><br>Rasika Budhay & Nakul Pathak, 
-<br>Proud Parents of Kalash Pathak
-<br>Class II B, The Jain International School, Nagpur.
+                                      <p>  एक बार एक शिष्य ने अपने गुरु जी से मन को शांत करने का तरीका पूछा। गुरु जी ने कुछ भी उत्तर नहीं दिया। लेकिन उसने शिष्य से कहा, "बेटा! मैं प्यासा हूँ। कृपया मेरे लिए उस तालाब से पानी लाओ।
+शिष्य तुरंत तालाब के पास गया। उसने देखा कि वहाँ कुछ लोग कपड़े धो रहे हैं उसने तालाब को पार करते हुए एक बैलगाड़ी को भी देखा।
+इस कारण तालाब का पानी प्रदूषित हो गया है। शिष्य ने सोचा, "मैं यह गंदा पानी गुरु जी को कैसे दूं?" इसलिए वह गुरु जी के पास गया और उनसे कहा कि पानी गंदा है, इसलिए पीने लायक नहीं है।
+यह सुनकर गुरु जी ने कहा, "चलो! हम इस वृक्ष के नीचे विश्राम करें। थोड़ी देर बाद, गुरु जी ने शिष्य को बुलाया और कहा कि तालाब पर वापस जाओ और पानी लाओ।
+शिष्य ने गुरु जी की आज्ञा मानी और तालाब की ओर  चला गया। अब, उसने तालाब में साफ़ पानी देखा। कीचड़ पानी के नीचे था इसलिए पानी अब पीने लायक था।
+इसलिए उसने घड़े में पानी भरकर गुरु जी को दे दिया।</p>
+<p>गुरु जी ने शिष्य से पूछा, "शिष्य! अब तुम्हें साफ़ पानी कैसे मिला?" शिष्य ने कहा, "कुछ देर के लिए तालाब को यूं ही छोड़ दिया गया कि कीचड़ अपने आप नीचे चला जाए। बिना मेहनत के उसे शुद्ध पानी मिल गया।
+गुरु जी ने कहा, "शिष्य! ऐसे ही हमें जीवन में जीना चाहिए।</p>
+<p>गुरु जी ने फिर कहा, "जब मन अशांत हो तो उसे कुछ समय पानी की तरह दें ताकि मन अपने आप शांत हो सके। कोई प्रयास नहीं करना चाहिए।
+गुरु जी ने आगे कहा, "इसलिए, यह याद रखना चाहिए कि जब मन अशांत हो, तो उसे बिना किसी प्रतिक्रिया के थोड़ी देर के लिए चुप रहना चाहिए। ताकि हम शांत मन से जीवन में सही निर्णय ले सकें।
+      </p>
+<br><br>Mrs. Chanchala Kumari 
+<br>HoD Sanskrit Dept.
+<br>The Jain International School, Nagpur.
 </p>
                                         </div><!-- /.entry-post -->
                                        

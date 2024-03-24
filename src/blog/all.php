@@ -105,7 +105,7 @@
                                     especially in households with working parents and a nuclear family setup.
                                     A child's character development becomes crucial in such an environment.
                                     At the heart of this endeavor lies the goal of grooming children to be 
-                                    self-reliant individuals..<a class="read-more" href="blog-single">Read more</a>
+                                    self-reliant individuals..<a class="read-more" href="./blog-single.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->                            
@@ -124,7 +124,7 @@
                                     </ul>
                                 </div><!-- /.meta-post -->                                   
                                 <div class="entry-post">
-                                    <p>This article is based on environment. It is about the cutting of trees and plants in the name of continuous development. This is a letter that the tree has written in the name of the countrymen. The blog is written by Mr. Mithilesh Pathak, HoD Hindi Department, The Jain International School, Nagpur.<a class="read-more" href="blog-single2">Read more</a>
+                                    <p>This article is based on environment. It is about the cutting of trees and plants in the name of continuous development. This is a letter that the tree has written in the name of the countrymen. The blog is written by Mr. Mithilesh Pathak, HoD Hindi Department, The Jain International School, Nagpur.<a class="read-more" href="blog-single2.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post --> 
@@ -150,7 +150,7 @@
                                     </ul>
                                 </div><!-- /.meta-post -->                                   
                                 <div class="entry-post">
-                                    <p>A blog written by Ms. Aisha Sheikh, HoD Science, The Jain International School, Nagpur, where she makes us understand the importance of Science in our day to day lives. National Science Day was celebrated yesterday and a tribute to her subject, worth a read in her own words is showcased here.<a class="read-more" href="blog-single3">Read more</a>
+                                    <p>A blog written by Ms. Aisha Sheikh, HoD Science, The Jain International School, Nagpur, where she makes us understand the importance of Science in our day to day lives. National Science Day was celebrated yesterday and a tribute to her subject, worth a read in her own words is showcased here.<a class="read-more" href="./blog-single3.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->                            
@@ -174,7 +174,7 @@ About which I had no clue......
 My thoughts entangled in the maze of mere words, from which I could not set myself free,
 Hit by the self-created wrath of time,
  I had no time to think of me. 
-<a class="read-more" href="blog-single4">Read more</a>
+<a class="read-more" href="./blog-single4.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->
@@ -201,7 +201,7 @@ Hit by the self-created wrath of time,
                                     </ul>
                                 </div><!-- /.meta-post -->                                   
                                 <div class="entry-post">
-                                    <p>Shyness in children is common. These strategies help prevent a child's shyness from interfering with their social development and learning. The earlier you start, the better your chance of success.<a class="read-more" href="blog-single5">Read more</a>
+                                    <p>Shyness in children is common. These strategies help prevent a child's shyness from interfering with their social development and learning. The earlier you start, the better your chance of success.<a class="read-more" href="./blog-single5.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->                            
@@ -222,7 +222,7 @@ Hit by the self-created wrath of time,
                                 <div class="entry-post">
                                     <p>A blog written by our student Armaan Pashine of Class V. A scientist makes a robot and it becomes very famous so he starts to make more robots but one of his robots turns evil and kills him. That robot hypnotizes all other robots and goes against mankind. Now, it is up to Steve to save all humans. 
 At JIS we encourage our children to write articles which we can publish. We hope this inspires many more to come forward with their articles/blogs.
-<a class="read-more" href="blog-single6">Read more</a>
+<a class="read-more" href="./blog-single6.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->
@@ -250,7 +250,7 @@ At JIS we encourage our children to write articles which we can publish. We hope
                                 </div><!-- /.meta-post -->                                   
                                 <div class="entry-post">
                                     <p>The importance of donating blood to save lives. This blog/article which is a small step to creating awareness is written by Prana Tandon who has gathered information from various sources.
-<a class="read-more" href="blog-single7">Read more</a>
+<a class="read-more" href="./blog-single7.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->                            
@@ -269,7 +269,7 @@ At JIS we encourage our children to write articles which we can publish. We hope
                                     </ul>
                                 </div><!-- /.meta-post -->                                 
                                 <div class="entry-post">
-                                    <p>This blog has been written by Mrs. Chanchala Pathak HoD of Sanskrit department, regarding the importance of Sanskrit and its value in life.<a class="read-more" href="blog-single8">Read more</a>
+                                    <p>This blog has been written by Mrs. Chanchala Pathak HoD of Sanskrit department, regarding the importance of Sanskrit and its value in life.<a class="read-more" href="./blog-single8.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->
@@ -296,7 +296,7 @@ At JIS we encourage our children to write articles which we can publish. We hope
                                     </ul>
                                 </div><!-- /.meta-post -->                                  
                                 <div class="entry-post">
-                                    <p>The blog has been written by HoD Mrs. Chanchala Kumari, The Jain International School- जब मन अशांत हो, तो उसे बिना किसी प्रतिक्रिया के थोड़ी देर के लिए चुप रहना चाहिए। ताकि हम शांत मन से जीवन में सही निर्णय ले सकें।<a class="read-more" href="blog-single9">Read more</a>
+                                    <p>The blog has been written by HoD Mrs. Chanchala Kumari, The Jain International School- जब मन अशांत हो, तो उसे बिना किसी प्रतिक्रिया के थोड़ी देर के लिए चुप रहना चाहिए। ताकि हम शांत मन से जीवन में सही निर्णय ले सकें।<a class="read-more" href="./blog-single9.php">Read more</a>
                                     </p>                                    
                                 </div><!-- /.entry-post -->
                             </div><!-- /.main-post -->                            

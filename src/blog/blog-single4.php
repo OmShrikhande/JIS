@@ -74,8 +74,8 @@
       </nav>
       <!--end sticky panel-->
 
-<div id="banner-area" class="banner-area" style="background-image: url()" data-hover-only="true">
-  </div>
+<!-- <div id="banner-area" class="banner-area" style="background-image: url()" data-hover-only="true">
+  </div> -->
 
  <!-- Blog posts -->
  <!-- Blog single -->
