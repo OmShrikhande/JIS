@@ -9,14 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="author" content="Flying Penguins">
   <meta name="description" content="Message by Director and Principal JIS, Nagpur to Students, Teachers and Parents.">
-  <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
-  <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/select2.min.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/custom.css">
-  <link rel="stylesheet" type="text/css" href="stylesheets/funky.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/bootstrap.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/style.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/responsive.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/colors/color1.css" id="colors">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/animate.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/select2.min.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/custom.css">
+  <link rel="stylesheet" type="text/css"href="/src/extra/stylesheets/funky.css">
   <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
 
   <style type="text/css">
@@ -84,9 +84,9 @@
 <body>
   <!--===================Header===========-->
 
-  <?php include '../../header.html'?>
+  <?php include '../../../header.html'?>
   <!--===================End Header===========-->
-  <div id="banner-area" class="banner-area" style="background-image: url(/images/messages-banner.jpg)"
+  <div id="banner-area" class="banner-area" style="background-image: url(/media/footer/mandatory_disclosure/messages-banner.jpg)"
     data-hover-only="true">
   </div>
 
@@ -109,60 +109,60 @@
         <div class=row style="justify-content: center">
           <div col-4>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Mandatory Public Disclosure .pdf" rel="noopener noreferrer" target="_blank">MANDATORY PUBLIC
+                href="/media/footer/mandatory_disclosure/Mandatory Public Disclosure .pdf" rel="noopener noreferrer" target="_blank">MANDATORY PUBLIC
                 DISCLOSURE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Extension of Affiliation.pdf" rel="noopener noreferrer" target="_blank">EXTENSION OF
+                href="/media/footer/mandatory_disclosure/Extension of Affiliation.pdf" rel="noopener noreferrer" target="_blank">EXTENSION OF
                 AFFILIATION</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/B-TRUST CERTIFICATE.pdf" rel="noopener noreferrer" target="_blank">TRUST
+                href="/media/footer/mandatory_disclosure/B-TRUST CERTIFICATE.pdf" rel="noopener noreferrer" target="_blank">TRUST
                 CERTIFICATE</a></button>
             <br><br> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/C-NOC.pdf" rel="noopener noreferrer" target="_blank">NOC</a></button>
+                href="/media/footer/mandatory_disclosure/C-NOC.pdf" rel="noopener noreferrer" target="_blank">NOC</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/D-RECOGNITION CERTIFICATE.pdf" rel="noopener noreferrer" target="_blank">RECOGNITION
+                href="/media/footer/mandatory_disclosure/D-RECOGNITION CERTIFICATE.pdf" rel="noopener noreferrer" target="_blank">RECOGNITION
                 CERTIFICATE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Building Safety Certificate.pdf" rel="noopener noreferrer" target="_blank">BUILDING SAFETY
+                href="/media/footer/mandatory_disclosure/Building Safety Certificate.pdf" rel="noopener noreferrer" target="_blank">BUILDING SAFETY
                 CERTIFICATE</a></button>
             <br><br> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/FIRE SAFETY.pdf" rel="noopener noreferrer" target="_blank">FIRE SAFETY
+                href="/media/footer/mandatory_disclosure/2023/FIRE SAFETY.pdf" rel="noopener noreferrer" target="_blank">FIRE SAFETY
                 CERTIFICATE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/SAFE DRINKING WATER.pdf" rel="noopener noreferrer" target="_blank">DRINKING WATER
+                href="/media/footer/mandatory_disclosure/2023/SAFE DRINKING WATER.pdf" rel="noopener noreferrer" target="_blank">DRINKING WATER
                 CERTIFICATE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/ACADEMIC CALENDAR 2023-24.pdf" rel="noopener noreferrer" target="_blank">ACADEMIC
+                href="/media/footer/mandatory_disclosure/2023/ACADEMIC CALENDAR 2023-24.pdf" rel="noopener noreferrer" target="_blank">ACADEMIC
                 CALENDAR
                 </a></button>
             <br><br> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/SCHOOL MANAGING COMMITTEE.pdf" rel="noopener noreferrer" target="_blank">SCHOOL MANAGING
+                href="/media/footer/mandatory_disclosure/2023/SCHOOL MANAGING COMMITTEE.pdf" rel="noopener noreferrer" target="_blank">SCHOOL MANAGING
                 COMMITTE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
                 href="/EXECUTIVE PTA.pdf" rel="noopener noreferrer" target="_blank">Executive PTA</a></button>
-            <button type="button" class="btn btn-primary" style="width: 320px !important;"><a href="/pdf/CURRICULUM.pdf"
+            <button type="button" class="btn btn-primary" style="width: 320px !important;"><a href="/media/footer/mandatory_disclosure/CURRICULUM.pdf"
                 rel="noopener noreferrer" target="_blank">CURRICULUM</a></button>
             <br><br> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/BOOK LIST.pdf" rel="noopener noreferrer" target="_blank">BOOK LIST
+                href="/media/footer/mandatory_disclosure/2023/BOOK LIST.pdf" rel="noopener noreferrer" target="_blank">BOOK LIST
                 </a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/NORMS FOR FIXING FEES.pdf" rel="noopener noreferrer" target="_blank">NORMS FOR FIXING
+                href="/media/footer/mandatory_disclosure/NORMS FOR FIXING FEES.pdf" rel="noopener noreferrer" target="_blank">NORMS FOR FIXING
                 FEES</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/2023/STRENGTH OF STUDENTS.pdf" rel="noopener noreferrer" target="_blank">STRENGTH OF
+                href="/media/footer/mandatory_disclosure/2023/STRENGTH OF STUDENTS.pdf" rel="noopener noreferrer" target="_blank">STRENGTH OF
                 STUDENTS </a></button>
             <br><br> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/TRANSFER CERTIFICATE SAMPLE.pdf" rel="noopener noreferrer" target="_blank">TRANSFER
+                href="/media/footer/mandatory_disclosure/TRANSFER CERTIFICATE SAMPLE.pdf" rel="noopener noreferrer" target="_blank">TRANSFER
                 CERTIFICATE SAMPLE</a></button>
             <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Undertaking Reg. Books.pdf" rel="noopener noreferrer" target="_blank">UNDERATKING REG.
+                href="/media/footer/mandatory_disclosure/Undertaking Reg. Books.pdf" rel="noopener noreferrer" target="_blank">UNDERATKING REG.
                 BOOKS</a></button>
             
              <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Teachers Training Details.pdf" rel="noopener noreferrer" target="_blank">TEACHER'S TRAINING
+                href="/media/footer/mandatory_disclosure/Teachers Training Details.pdf" rel="noopener noreferrer" target="_blank">TEACHER'S TRAINING
                 DETAILS</a></button>
            <br><br><center> <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
-                href="/pdf/Self Certification.pdf" rel="noopener noreferrer" target="_blank">SELF
+                href="/media/footer/mandatory_disclosure/Self Certification.pdf" rel="noopener noreferrer" target="_blank">SELF
                 CERTIFICATION</a></button></center>
            <!-- <button type="button" class="btn btn-primary" style="width: 320px !important;"><a
                 href="pdf/2023/Fee_Chart _2023-24.pdf" rel="noopener noreferrer" target="_blank">Fees Chart
@@ -266,37 +266,37 @@
  <div class="footerr">
   </div>  
   
-  <script type="text/javascript" src="./footer.js">
+  <script type="text/javascript" src="../../../footer.js">
   </script>
   <!--============End Bottom==============-->
   <a class="go-top">
     <i class="fa fa-angle-up"></i>
   </a>
-  <script type="text/javascript" src="javascript/jquery.min.js"></script>
-  <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
-  <script type="text/javascript" src="javascript/jquery.easing.js"></script>
-  <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-  <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="javascript/owl.carousel.js"></script>
-  <script type="text/javascript" src="javascript/jquery.mb.YTPlayer.js"></script>
-  <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
-  <script type="text/javascript" src="javascript/jquery.flexslider-min.js"></script>
-  <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-  <script type="text/javascript" src="javascript/jquery.fitvids.js"></script>
-  <script type="text/javascript" src="javascript/jquery-validate.js"></script>
-  <script type="text/javascript" src="javascript/jquery.magnific-popup.min.js"></script>
-  <script type="text/javascript" src="javascript/parallax.js"></script>
-  <script type="text/javascript" src="javascript/jquery.countdown.js"></script>
-  <script type="text/javascript" src="javascript/jquery.sticky.js"></script>
-  <script type="text/javascript" src="javascript/smoothscroll.js"></script>
-  <script type="text/javascript" src="javascript/main.js"></script>
-  <script type="text/javascript" src="javascript/jquery.themepunch.tools.min.js"></script>
-  <script type="text/javascript" src="javascript/jquery.themepunch.revolution.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.easing.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/imagesloaded.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.isotope.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/owl.carousel.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery-waypoints.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.flexslider-min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.cookie.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery-validate.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.countdown.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.sticky.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/smoothscroll.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/main.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
   <script src="js/jquery.counterup.js"></script>
   <script src="js/countdown.js"></script>
   <script src="js/wow.min.js"></script>
   <script src="js/main.js"></script>
-  <script type="text/javascript" src="javascript/parallax.js"></script>
+  <script type="text/javascript" src="/src/extra/javascript/parallax.js"></script>
   <script type="text/javascript">
     // $(window).on('click',function(){
     //  setTimeout(function(){

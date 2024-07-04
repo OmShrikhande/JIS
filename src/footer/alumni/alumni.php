@@ -140,7 +140,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 
       <?php include '../../../header.html'?>
       <!--===================End Header===========-->
-     <div id="banner-area" class="banner-area busban3" style="background-image: url(/images/alumini-banner.jpg)" data-hover-only="true">
+     <div id="banner-area" class="banner-area busban3" style="background-image: url(/media/footer/alumni/alumini-banner.jpg)" data-hover-only="true">
     </div>
     <section class="pad-60">
       <div class="container">
@@ -435,7 +435,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
      <div class="footerr">
   </div>  
   
-  <script type="text/javascript" src="footer.js">
+  <script type="text/javascript" src="../../../footer.js">
   </script>
       <!--============End Bottom==============-->
       <a class="go-top">

@@ -19,20 +19,20 @@ Admission Details | The Jain International School</title>
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="author" content="Flying Penguins">
       <meta name="description" content="AT JIS, we are open for Admissions from Pre-Nursery to Class XII (Science & Commerce) with Hostel for Class XI & XII.">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.css" >
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/bootstrap.css" >
 
-      <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/style.css">
       <!-- Responsive -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/responsive.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/funky.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/responsive.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css">
       <!-- Colors -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/colors/color1.css" id="colors">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/colors/color1.css" id="colors">
       <!-- Animation Style -->
-      <link rel="stylesheet" type="text/css" href="/stylesheets/animate.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/primary-school.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/select2.min.css">
-      <link rel="stylesheet" type="text/css" href="/stylesheets/custom.css">
-      <!-- <link rel="stylesheet" type="text/css" href="/stylesheets/funky.css"> -->
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/animate.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/primary-school.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/select2.min.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/custom.css">
+      <!-- <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/funky.css"> -->
       <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
       <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -46,7 +46,7 @@ Admission Details | The Jain International School</title>
       </script>
       <!--added for tabs-->
 
-      <link rel="stylesheet" type="text/css" href="/stylesheets/admission.css">
+      <link rel="stylesheet" type="text/css" href="/src/extra/stylesheets/admission.css">
          <style>
         @media(min-width: 300px){
           .busban1{
@@ -111,7 +111,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 
       <!--===================Header===========-->
 
-      <?php include '../../header.html'?>
+      <?php include '../../../header.html'?>
      <!--sticky panel-->
         <nav class="float-action-button hidden-xs">
         <a href="/index#events" class="buttons" title="Recent Events" data-toggle="tooltip" data-placement="left">
@@ -138,7 +138,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 
 
           <section style="padding-bottom: 0px">
-      <img src="/images/admissipn-banner.jpg" width="100%" class="busban1">
+      <img src="/media/footer/fee_payement/admissipn-banner.jpg" style="width:100%;" class="busban1">
     </section>
 
 
@@ -214,7 +214,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
       <!--row 1 ends -->
 
       <!--row 2 starts -->
-       <section class="section-background">
+       <section class="section-background" >
          <div class="container">
            <div class="row">
              <div class="col-lg-6">
@@ -310,42 +310,40 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
     </div><br> </div>
 
 
-
+<div >
       <!--============Footer==============-->
 <div class="footerr">
   </div>  
   
-  <script type="text/javascript" src="footer.js">
+  <script type="text/javascript" src="../../../footer.js">
   </script>
       <!--============End Bottom==============-->
-      <a class="go-top">
-      <i class="fa fa-angle-up"></i>
-      </a>
+</div>  
       
       <!-- Javascript -->
-      <script type="text/javascript" src="/javascript/jquery.min.js"></script>
-      <script type="text/javascript" src="/javascript/bootstrap.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.easing.js"></script>
-      <script type="text/javascript" src="/javascript/imagesloaded.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.isotope.min.js"></script>
-      <script type="text/javascript" src="/javascript/owl.carousel.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.mb.YTPlayer.js"></script>
-      <script type="text/javascript" src="/javascript/jquery-waypoints.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.flexslider-min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.cookie.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.fitvids.js"></script>
-      <script type="text/javascript" src="/javascript/jquery-validate.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.magnific-popup.min.js"></script>
-      <script type="text/javascript" src="/javascript/parallax.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.countdown.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/bootstrap.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.easing.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/imagesloaded.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.isotope.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/owl.carousel.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.mb.YTPlayer.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery-waypoints.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.flexslider-min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.cookie.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.fitvids.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery-validate.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.magnific-popup.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/parallax.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.countdown.js"></script>
       <!-- // <script type="text/javascript" src="javascript/switcher.js"></script> -->
-      <script type="text/javascript" src="/javascript/jquery.sticky.js"></script>
-      <script type="text/javascript" src="/javascript/smoothscroll.js"></script>
-      <script type="text/javascript" src="/javascript/main.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.sticky.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/smoothscroll.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/main.js"></script>
       <!-- Revolution Slider -->
-      <script type="text/javascript" src="/javascript/jquery.themepunch.tools.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery.themepunch.revolution.min.js"></script>
-      <script type="text/javascript" src="/javascript/slider.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.themepunch.tools.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/jquery.themepunch.revolution.min.js"></script>
+      <script type="text/javascript" src="../../../src/extra/javascript/slider.js"></script>
       <!-- Counter Up -->
       <script src="/js/jquery.counterup.js"></script>
 

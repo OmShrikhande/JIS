@@ -1,4 +1,4 @@
-<!DOCTYPE html>/*
+<!DOCTYPE html>
 <!--[if IE 8 ]>
 <html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
   <![endif]-->
@@ -97,7 +97,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
       <!--===================End Header===========-->
       <!--========Banner===============-->
       <section style="padding-bottom: 0px">
-      <img src="/images/contact-us-banner.jpg" style="width: 2018px; height: 450px" class="busban2">
+      <img src="../../../media/footer/contact-us/contact-us-banner.jpg" style="width: 2018px; height: 450px" class="busban2">
     </section>
      <!--========End Banner===============-->
      <!--========Special Attention===============-->
@@ -204,7 +204,7 @@ src="https://www.facebook.com/tr?id=2496256817260330&ev=PageView
 <div class="footerr">
   </div>  
   
-  <script type="text/javascript" src="./footer.js">
+  <script type="text/javascript" src="../../../footer.js">
   </script>
       
       <a class="go-top">
